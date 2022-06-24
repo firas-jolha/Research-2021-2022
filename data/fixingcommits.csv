@@ -1,0 +1,1066 @@
+commit_url,issue_url,message
+https://api.github.com/repos/web3p/ethereum-tx/commits/83d9305ba4782bc310b4b4e6f86024e27198d8e2,https://api.github.com/repos/web3p/ethereum-tx/issues/41,Fix #41: hash didn't return transaction hash
+https://api.github.com/repos/web3p/ethereum-tx/commits/0f56c03186f09255a3dca6b015e7d275d66d84af,https://api.github.com/repos/web3p/ethereum-tx/issues/15,"Fix #15
+Change
+* Change nonce, gas, gasLimit, gasPrice allowZero to false.
+* Change check zero statement.
+* Add test for issue #15."
+https://api.github.com/repos/0xPrateek/Stardox/commits/6bc146df2ad626c72ed0f91ec26ec82ebdb6fe20,https://api.github.com/repos/0xPrateek/Stardox/issues/19,"Adding Email only feature fix #19
+
+Added email-only feature"
+https://api.github.com/repos/0xPrateek/Stardox/commits/06961b7df462ba9664e7fe327b4434b1563aeb6c,https://api.github.com/repos/0xPrateek/Stardox/issues/23,"Fixed #23 - getting numbers wrong [1/2]
+
+- Fixed incorrect count value.
+- Fixed total stargazer count and now it will scrap for total stargazers."
+https://api.github.com/repos/notanumber/xapian-haystack/commits/fc0a9f71d23284927cdb39d6d0afa27de0b2877a,https://api.github.com/repos/notanumber/xapian-haystack/issues/49,"Fixed #49 - Improves support for exact matches on text.
+
+This efectively increases the index size because it
+now indexes literal words to improve __exact results."
+https://api.github.com/repos/notanumber/xapian-haystack/commits/ab26c30d90aafe3103f299760e672d3312f0c92a,https://api.github.com/repos/notanumber/xapian-haystack/issues/119,Fixed #119 - Adds support to non-anscii indexing and search.
+https://api.github.com/repos/notanumber/xapian-haystack/commits/b623ea2556ec5f1ea5ef578b01275be2d632ad09,https://api.github.com/repos/notanumber/xapian-haystack/issues/109,"Fixed #109 - Raises InvalidIndexError when facet is not indexed.
+
+Also added regression test."
+https://api.github.com/repos/notanumber/xapian-haystack/commits/5d16d1aca7ccb7261ae72317c51a1cdeddb7e27f,https://api.github.com/repos/notanumber/xapian-haystack/issues/101,Fixed #101 - Adds support to AutoQuery.
+https://api.github.com/repos/notanumber/xapian-haystack/commits/4d51f5e9af985c8172947e1600bcc9345210c822,https://api.github.com/repos/notanumber/xapian-haystack/issues/98,"Fixed #98 - queries are now consistent with Haystack 2.X.
+
+Refactored _filter_contains query constructor."
+https://api.github.com/repos/notanumber/xapian-haystack/commits/a27676a8509d8cf8bf723f785b8c730db1c6a7ed,https://api.github.com/repos/notanumber/xapian-haystack/issues/111,"Fixed #111 - Removes Python error.
+
+Added test to check it works."
+https://api.github.com/repos/notanumber/xapian-haystack/commits/01805d08f8c3cdf048f65865ca95b2ddc7000ed8,https://api.github.com/repos/notanumber/xapian-haystack/issues/112,"Fixed #112 - more_like_this raises InvalidIndexError for unindexed instance.
+
+This doesn't happen if silently_fail is True, in which case returns
+an empty result. Added test to cover both cases."
+https://api.github.com/repos/OrchardCMS/OrchardCore.Commerce/commits/7b8dcd69bb92db6f522ba4fa805fe6c101faaeb1,https://api.github.com/repos/OrchardCMS/OrchardCore.Commerce/issues/88,"normalize currency formats (format for Yen and Yuan differ by OS)
+fixes #88"
+https://api.github.com/repos/OrchardCMS/OrchardCore.Commerce/commits/d17d6e821763a60dc7791bfd6c1b5b11c4447abd,https://api.github.com/repos/OrchardCMS/OrchardCore.Commerce/issues/87,"remove this test (nof currencies differs by OS)
+fixes #87"
+https://api.github.com/repos/OrchardCMS/OrchardCore.Commerce/commits/9ca51553e080230cbfbdc93592b161280beb453e,https://api.github.com/repos/OrchardCMS/OrchardCore.Commerce/issues/35,Fixes #35: don't crash when the default currency setting is not set.
+https://api.github.com/repos/cmprescott/ansible-xml/commits/0e3a84dca6d4433491a6590f9e9752455e45c701,https://api.github.com/repos/cmprescott/ansible-xml/issues/112,"PEP8 compliancy and docs updates
+
+This fixes #112"
+https://api.github.com/repos/cmprescott/ansible-xml/commits/a48cdd16f4f3836aece04ff597faa4298abe482c,https://api.github.com/repos/cmprescott/ansible-xml/issues/81,"Merge pull request #97 from cchepelov/restore_implicit_creation
+
+Implement implicit element creation via XPath (fixes: #81, #37)"
+https://api.github.com/repos/openfl/actuate/commits/a860cedc85a12d47c15730258fa9a4e7dd061006,https://api.github.com/repos/openfl/actuate/issues/96,"Incorrect bezierSpline ending on odd point numbers
+
+Bug fix https://github.com/jgranick/actuate/issues/96"
+https://api.github.com/repos/openfl/actuate/commits/660525b9c8793219c659ac85643189ae3ae9b300,https://api.github.com/repos/openfl/actuate/issues/58,"Reflection fix (fixes #57, fixes #58)"
+https://api.github.com/repos/openfl/actuate/commits/660525b9c8793219c659ac85643189ae3ae9b300,https://api.github.com/repos/openfl/actuate/issues/57,"Reflection fix (fixes #57, fixes #58)"
+https://api.github.com/repos/openfl/actuate/commits/60c14df693532821f861ac8eb8a2e7a88da11297,https://api.github.com/repos/openfl/actuate/issues/25,Minor Actuate.pause/Actuate.resume fix (fixes #25)
+https://api.github.com/repos/tao12345666333/tornado-zh/commits/45ba4160114fdd3f94e85e8db67b350d81274e34,https://api.github.com/repos/tao12345666333/tornado-zh/issues/4,fix #4 change Makefile and conf.py
+https://api.github.com/repos/ansiblebit/oracle-java/commits/617c8f2de47d53b11ebed60c6cdfe7d020a120a7,https://api.github.com/repos/ansiblebit/oracle-java/issues/34,"Implemented rpm search on oracle site, fixes #34"
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/28708df9ca3a06ffecaecab1248bafb8f38b76de,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/126,Fix #126
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/1109f03925039512479c671dddaf5c29df7efb3e,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/96,closes #96
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/c606d461bbc3e893c87b323164a0ce7d29d4a8e4,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/63,Support QueryParam enum. Fix #63
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/46364dcd9a223cf82b4b2e1d31c96cea9a03c24f,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/31,Fix #31
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/97b170aefd8ec0358b0ca8c7d81648b88e9b9c3a,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/26,Fix #26
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/4d76e2ac994ecfd8782d0cb635d06647c93f2bb2,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/4,Fix #4
+https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/commits/82e1f8799ff6c0621407206460a3c11153557666,https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/issues/3,Fix #3
+https://api.github.com/repos/astockwell/countries-and-provinces-states-regions/commits/d2e9e5e36dffda99d8d519d2be624ef4d2e47f67,https://api.github.com/repos/astockwell/countries-and-provinces-states-regions/issues/2,"Fix United States filename, closes #2"
+https://api.github.com/repos/kazu-yamamoto/logger/commits/7665ace0e51cd30cfdada55f0e1faca21a2cbd2e,https://api.github.com/repos/kazu-yamamoto/logger/issues/160,Fix #160. Use StandaloneDeriving to derive MonadResource (NoLoggingT m)
+https://api.github.com/repos/kazu-yamamoto/logger/commits/95bb3359006d7a5a0f61c6167b5b6295fd1881d8,https://api.github.com/repos/kazu-yamamoto/logger/issues/22,"Add a lower-bound on unix-time
+
+Fixes #22."
+https://api.github.com/repos/kazu-yamamoto/logger/commits/0fe40038c5856dd605b0613a974faf9b6820a585,https://api.github.com/repos/kazu-yamamoto/logger/issues/18,"update fast-logger dependency version
+
+fixes https://github.com/kazu-yamamoto/logger/issues/18"
+https://api.github.com/repos/kazu-yamamoto/logger/commits/21c7a11ca3ac976dd26da1e5cc9ce7b12e9fce69,https://api.github.com/repos/kazu-yamamoto/logger/issues/19,"add missing imports for windows
+
+fixes https://github.com/kazu-yamamoto/logger/issues/19"
+https://api.github.com/repos/tamasmeszaros/libnest2d/commits/bc2bd7f33cafcdc327a762e4b6447f6d1165444f,https://api.github.com/repos/tamasmeszaros/libnest2d/issues/20,"Update RP framework
+
+fixes #20"
+https://api.github.com/repos/mattermoran/map_launcher/commits/fe8fdf80e49773a3a904b25abe7adba99378dd55,https://api.github.com/repos/mattermoran/map_launcher/issues/58,fix #58: android 11 not showing installed maps
+https://api.github.com/repos/fabio-miranda/csv-to-influxdb/commits/6f7c46dc0a05df07f9048fed9b75adf428db8881,https://api.github.com/repos/fabio-miranda/csv-to-influxdb/issues/1,"Fixes #1: Missing README Information
+
+Added warning for users to inform that the given database will be dropped first."
+https://api.github.com/repos/leonid-shevtsov/unobtrusive_flash/commits/260b3fd197364580539c690712c2a493f5731c94,https://api.github.com/repos/leonid-shevtsov/unobtrusive_flash/issues/18,"Do not wait for document.ready to set up unobtrusive flash; do not wrap DOM-independent code inside $().
+
+Fixes #18 and #19"
+https://api.github.com/repos/hakandilek/play2-crud/commits/e413fd6df81d6e5e0d13f20ef8c94624ec60a02a,https://api.github.com/repos/hakandilek/play2-crud/issues/27,Fix Asset route lookup in templates. fixes #27 and #28.
+https://api.github.com/repos/hakandilek/play2-crud/commits/989f6e1fa244a6cc857b12e1b8535dc64f4670e1,https://api.github.com/repos/hakandilek/play2-crud/issues/26,fixes #26
+https://api.github.com/repos/hakandilek/play2-crud/commits/7bd300c482d8de30af47e748f6dd386aed2e25a9,https://api.github.com/repos/hakandilek/play2-crud/issues/5,Update sample for play 2.1 support. fixes #5
+https://api.github.com/repos/richardschneider/net-mdns/commits/94e34167e794e64e13baa58f21ca92cdc603f0df,https://api.github.com/repos/richardschneider/net-mdns/issues/79,fix(MulticastClient): ignore receive error.  Fixes #79
+https://api.github.com/repos/richardschneider/net-mdns/commits/3326c93e703eb5dc1a55db24bb079a1a6ad6fe35,https://api.github.com/repos/richardschneider/net-mdns/issues/1,"fix: max packet size, fixes #1"
+https://api.github.com/repos/rrweb-io/rrweb-snapshot/commits/8307c87cedf603190fd898832d06df9bf12237bf,https://api.github.com/repos/rrweb-io/rrweb-snapshot/issues/68,"using for loop instead of forEach in element classlists
+pick #64 and close #68"
+https://api.github.com/repos/rrweb-io/rrweb-snapshot/commits/1cc7164f2ca138be2278119f1ab37dc17ee16375,https://api.github.com/repos/rrweb-io/rrweb-snapshot/issues/56,"fix https://github.com/rrweb-io/rrweb-snapshot/issues/56
+safe access tagName of form element"
+https://api.github.com/repos/rrweb-io/rrweb-snapshot/commits/555398d3f522b788e253b61c31d70ba82191c3c3,https://api.github.com/repos/rrweb-io/rrweb-snapshot/issues/38,"close #38, update data uri regexp"
+https://api.github.com/repos/rrweb-io/rrweb-snapshot/commits/b5e9b40f4d624854564bb433900606232cdc3b5b,https://api.github.com/repos/rrweb-io/rrweb-snapshot/issues/24,close #24 css text can be null
+https://api.github.com/repos/pipermerriam/flex/commits/cdb46b42ee3a9e0b46afe596dcb8cef3fa4a0c9b,https://api.github.com/repos/pipermerriam/flex/issues/78,Fixes #78 - Correct handling of referenceObject
+https://api.github.com/repos/pipermerriam/flex/commits/9c13c74d577b7d6e161e441109dd13254ebbb0f5,https://api.github.com/repos/pipermerriam/flex/issues/66,Fixes #66 - Use proper json pointer resolution
+https://api.github.com/repos/pipermerriam/flex/commits/16fb665e5ea96d90cf940fd457ef61f3c7064b1b,https://api.github.com/repos/pipermerriam/flex/issues/71,Fixes #71 - Fix external docs validation
+https://api.github.com/repos/pipermerriam/flex/commits/6f07e64c987437ec4dce008d295e6b1d030ba321,https://api.github.com/repos/pipermerriam/flex/issues/56,Fixes #56 - handle multiple paths found a bit smarter
+https://api.github.com/repos/pipermerriam/flex/commits/64b13505ca16be1209d6086d81067766d2ebcefe,https://api.github.com/repos/pipermerriam/flex/issues/28,Fixes #28 - Add python3 support
+https://api.github.com/repos/pipermerriam/flex/commits/43408df1fb313b851329c244b48a60c7b4c1884e,https://api.github.com/repos/pipermerriam/flex/issues/6,fixes #6 - Change target for version and downloads badge links
+https://api.github.com/repos/jruby/joni/commits/70de47c4f23fd869335de694f0c29badfa3d0f9f,https://api.github.com/repos/jruby/joni/issues/35,Fixes #35
+https://api.github.com/repos/jruby/joni/commits/fec066a3e36a42ac2b782f73479632dbb88d2f0a,https://api.github.com/repos/jruby/joni/issues/15,Fixes #15
+https://api.github.com/repos/IsraelOrtuno/pipedrive/commits/f050101f08f95f4c6c8a768565363fd8762eb2a2,https://api.github.com/repos/IsraelOrtuno/pipedrive/issues/102,"Rename endpoint
+
+Fixes #102"
+https://api.github.com/repos/IsraelOrtuno/pipedrive/commits/d3a76e4792400c9dabeb371d26b33e123da8ef03,https://api.github.com/repos/IsraelOrtuno/pipedrive/issues/2,Typos fixed #2
+https://api.github.com/repos/mafintosh/dns-packet/commits/db4e271a59e5038b7c091efbccf4753378682877,https://api.github.com/repos/mafintosh/dns-packet/issues/39,fix encoding of empty string in TXT data - fixes #39
+https://api.github.com/repos/mafintosh/dns-packet/commits/84589e7026f98bf8e010e121761ad19eb307b1ae,https://api.github.com/repos/mafintosh/dns-packet/issues/27,"rename flag_auth,flag_trunc to flag_aa,flag_tc
+
+Fixes: https://github.com/mafintosh/dns-packet/issues/27"
+https://api.github.com/repos/mafintosh/dns-packet/commits/eabaaa51567174d6d61504f96c2635aa2cf3c784,https://api.github.com/repos/mafintosh/dns-packet/issues/11,Decode RCODE and other header flags. Fixes #11.
+https://api.github.com/repos/gonzalocasas/node-proxy-middleware/commits/b78badded996bd4a81375c815ea410a6cbc2b670,https://api.github.com/repos/gonzalocasas/node-proxy-middleware/issues/2,fix typo in the readme. closes #2
+https://api.github.com/repos/benbalter/gman/commits/02f4384e7d1c9bfb102648761542493137b8164e,https://api.github.com/repos/benbalter/gman/issues/2,"add gov.uk support, fixes #2"
+https://api.github.com/repos/bsm/grape-kaminari/commits/869506cf0105d58ccc3e2f8e090daa04b949eaee,https://api.github.com/repos/bsm/grape-kaminari/issues/35,fix #35
+https://api.github.com/repos/evernote/evernote-cloud-sdk-php/commits/bf0aa32c05b5befb6aad2b4f6075b93331e71fd8,https://api.github.com/repos/evernote/evernote-cloud-sdk-php/issues/12,Fix #12 : broken links in documentation
+https://api.github.com/repos/evernote/evernote-cloud-sdk-php/commits/1371f6613f04ea2dde6c4129083c8bd081e59f27,https://api.github.com/repos/evernote/evernote-cloud-sdk-php/issues/10,Fix #10
+https://api.github.com/repos/zohararad/sails-rest/commits/3a4f393929a7d2d72ea0fc62fa9d78739e065162,https://api.github.com/repos/zohararad/sails-rest/issues/70,refactor Connection.getResponseHandler - nullify err only if response exists without an error. fixes #70
+https://api.github.com/repos/zohararad/sails-rest/commits/52c89e7e15474f9a77d1481ecce77d6f8a413ad6,https://api.github.com/repos/zohararad/sails-rest/issues/69,"handle null responses in connection ""handleResponse"". fixes #69"
+https://api.github.com/repos/zohararad/sails-rest/commits/b9befeda3c92932d28c71e5da42eac40e91367d4,https://api.github.com/repos/zohararad/sails-rest/issues/14,add more meaningful errors to failed REST requests. fixes #14
+https://api.github.com/repos/zohararad/sails-rest/commits/b3d457717a49f5bfe257a46cbf93519b21f80550,https://api.github.com/repos/zohararad/sails-rest/issues/13,"add skip, limit, offset to GET query only if values are speficied in options. fixes #13. breaks #12"
+https://api.github.com/repos/tullamods/Bagnon/commits/6ed7b6a8b24005cb3783db1144a95c28506e8952,https://api.github.com/repos/tullamods/Bagnon/issues/866,Fixes #866?
+https://api.github.com/repos/tullamods/Bagnon/commits/93bf6ac12d0b9a741e0930750f6848818714caee,https://api.github.com/repos/tullamods/Bagnon/issues/844,"Fixed #844, #800, #830, #824, #804, #857, #811, #841"
+https://api.github.com/repos/tullamods/Bagnon/commits/f3a0c2d324a2f7257d66e65390e2705336453aa4,https://api.github.com/repos/tullamods/Bagnon/issues/706,Fixes #706
+https://api.github.com/repos/tullamods/Bagnon/commits/181000261f19c52d6774828fb926692be015e247,https://api.github.com/repos/tullamods/Bagnon/issues/728,Fixes #728. Hopefully fixed #717 #727
+https://api.github.com/repos/tullamods/Bagnon/commits/c117e90e7fd1cadd85cdee4cc297654439fd76e1,https://api.github.com/repos/tullamods/Bagnon/issues/555,Fixes #555
+https://api.github.com/repos/tullamods/Bagnon/commits/e80d9541aeaf860ec0f5024c7c98637239b82796,https://api.github.com/repos/tullamods/Bagnon/issues/328,Fixes #328
+https://api.github.com/repos/tullamods/Bagnon/commits/2ac87e197fee7b96a69b79a6249c8b7fe7787144,https://api.github.com/repos/tullamods/Bagnon/issues/324,Fixes #324
+https://api.github.com/repos/tullamods/Bagnon/commits/6af7b2daee536e0714ea440af818513bf8a3d68b,https://api.github.com/repos/tullamods/Bagnon/issues/193,Fixes #193
+https://api.github.com/repos/tullamods/Bagnon/commits/6c29ab54b9e06adbf08ad3e63af45da0c3af5c7b,https://api.github.com/repos/tullamods/Bagnon/issues/133,Replaced flash find animation by normal text search. Fixes #133.
+https://api.github.com/repos/tullamods/Bagnon/commits/e00d6c8fee1ac2e683e8833c4046be562a9ebf61,https://api.github.com/repos/tullamods/Bagnon/issues/149,Closes #149
+https://api.github.com/repos/tullamods/Bagnon/commits/3022dd04c08dcd119d17db9e4d033cdb47c56504,https://api.github.com/repos/tullamods/Bagnon/issues/138,Fixes #138
+https://api.github.com/repos/tullamods/Bagnon/commits/8dc7960e0fa09e3e2ce7bca9f9736545b74540c6,https://api.github.com/repos/tullamods/Bagnon/issues/91,Closes #91
+https://api.github.com/repos/tullamods/Bagnon/commits/ca01b0827d7f0e20044c55120b17eeb01b2f27df,https://api.github.com/repos/tullamods/Bagnon/issues/78,Closes #78
+https://api.github.com/repos/tullamods/Bagnon/commits/87baa670867466c0bd8e7802d2d437c364d9e4ed,https://api.github.com/repos/tullamods/Bagnon/issues/68,Fixes #68
+https://api.github.com/repos/tullamods/Bagnon/commits/7d5a3f3381d2670c76994b2851cd1c648873ee9b,https://api.github.com/repos/tullamods/Bagnon/issues/66,Updated lib item cache. Closes #66
+https://api.github.com/repos/tullamods/Bagnon/commits/b04ee48180a68acba6271520e9cfd9195bc89aeb,https://api.github.com/repos/tullamods/Bagnon/issues/57,Closes #57
+https://api.github.com/repos/tullamods/Bagnon/commits/63fdcbe06d702d48c225d4906a6f883c3f3d1003,https://api.github.com/repos/tullamods/Bagnon/issues/55,Closes #55
+https://api.github.com/repos/tullamods/Bagnon/commits/f17cb80081ab892ddd36d17c107bd814d7af6856,https://api.github.com/repos/tullamods/Bagnon/issues/54,Implemented some portuguese translations. Closes #54.
+https://api.github.com/repos/slyapustin/django-classified/commits/80df6017019bcc3c6d7abc7f9e07372dbc38e8a9,https://api.github.com/repos/slyapustin/django-classified/issues/27,fixes #27
+https://api.github.com/repos/tmcgee123/karma-spec-reporter/commits/b8b76ba2c09bdb650c02da0f61af3e586f0273e7,https://api.github.com/repos/tmcgee123/karma-spec-reporter/issues/25,Fix #25 - cannot read property 'prefixes' of undefined.
+https://api.github.com/repos/tmcgee123/karma-spec-reporter/commits/44007742053d52d2e612f718779da88d6699b114,https://api.github.com/repos/tmcgee123/karma-spec-reporter/issues/10,"Respect karma's 'colors' configuration, fixes #10"
+https://api.github.com/repos/xjdrew/lua-zset/commits/b1a67d59730e1e003d2e28ec9735ca4f622c7f09,https://api.github.com/repos/xjdrew/lua-zset/issues/1,fixed #1 support luajit2.1
+https://api.github.com/repos/pimoroni/scroll-phat-hd/commits/3d86d360b4a3bc715c186988434771f981418235,https://api.github.com/repos/pimoroni/scroll-phat-hd/issues/7,Catch IndexError to fix #7
+https://api.github.com/repos/scottlaurent/accounting/commits/94306a46273a59dca626fec93050f196d61c7146,https://api.github.com/repos/scottlaurent/accounting/issues/6,"Add beginTransaction, fixes #6"
+https://api.github.com/repos/Automattic/vip-scanner/commits/4fb1278f469e3f57431bfd9815dfc78342ad2e84,https://api.github.com/repos/Automattic/vip-scanner/issues/250,"Add additional test for the CustomizerCheck
+
+The test ensures that semicolons in descriptions don’t throw the
+detection off.
+
+This is no longer the case since moving away from regular expression,
+but we should just make sure there’s no regression here.
+
+Fixes #250."
+https://api.github.com/repos/Automattic/vip-scanner/commits/1b3053acf1722899b29c1eb964f6a421f232f225,https://api.github.com/repos/Automattic/vip-scanner/issues/259,"Merge pull request #257 from emrikol/master
+
+Rework VIP Scanner: VIPRestrictedPatternsCheck->check() now uses human readable error slugs.
+
+Fixes #259"
+https://api.github.com/repos/Automattic/vip-scanner/commits/ec2fdd6bcb57790c2418c51a2447d0a3df4f593d,https://api.github.com/repos/Automattic/vip-scanner/issues/190,"Check for missing uses of checked(), selected() and disabled()
+
+Warn about code that does not use the checked(), selected() and
+disabled() helper functions when outputting forms.
+
+Fixes #190."
+https://api.github.com/repos/Automattic/vip-scanner/commits/bca72bd6a2fdfe63684573099357d1a421c3b3c8,https://api.github.com/repos/Automattic/vip-scanner/issues/150,"Fix wrong $content_width error
+
+We were reporting $content_width missing, but checking for `the_content()`.
+
+Fixes #150"
+https://api.github.com/repos/Automattic/vip-scanner/commits/219a23ff197d5772b4b24560a8830b519daaaf89,https://api.github.com/repos/Automattic/vip-scanner/issues/152,"Flag backtrace
+
+Debug code shouldn't be in production for various reasons:
+
+1. It's unnecessary
+2. It potentially outputs sensitive filesystem information
+
+Fixes #152"
+https://api.github.com/repos/Automattic/vip-scanner/commits/9fb1aebd946069984d0d627594b350422df4c474,https://api.github.com/repos/Automattic/vip-scanner/issues/74,"Add PHPShortTagsCheck to VIP review
+
+Fixes #74"
+https://api.github.com/repos/Automattic/vip-scanner/commits/581c15048eb5104fe41db20dac1c9ccbeb992135,https://api.github.com/repos/Automattic/vip-scanner/issues/42,"Flag uses of the uncached wp_get_post_categories()
+
+Is just a wrapper around wp_get_object_terms()
+
+Fixes #42"
+https://api.github.com/repos/Automattic/vip-scanner/commits/65d59be189f396450bbb1e453532c213729fd5d2,https://api.github.com/repos/Automattic/vip-scanner/issues/34,"Add various multisite functions to restricted commands check
+
+Blacklists a few MU functions that sites in multi-tenant environment
+shouldn’t be calling
+
+Fixes #34"
+https://api.github.com/repos/Automattic/vip-scanner/commits/c127cb46cc7da4bd390bd4f2ad1d33c66560a07e,https://api.github.com/repos/Automattic/vip-scanner/issues/51,"Flag uses of the user meta functions in VIP themes
+
+On WP.com, the users tables are enormous, so user meta queries are
+unfeasible.
+
+Flag uses of the user meta functions as a Blocker
+
+Fixes #51"
+https://api.github.com/repos/Automattic/vip-scanner/commits/bddf3accc37d340f7a1ee17ea35b0a4efa5ebd45,https://api.github.com/repos/Automattic/vip-scanner/issues/35,"Flag uses of extract()
+
+extract() sucks.
+
+Fixes #35"
+https://api.github.com/repos/Automattic/vip-scanner/commits/c10a8df45e894ecd8da5bf96bb19cfdd20406946,https://api.github.com/repos/Automattic/vip-scanner/issues/39,"Flag all session functions in VIP themes
+
+Fixes #39"
+https://api.github.com/repos/Automattic/vip-scanner/commits/dc7e76b6be583dc4fd908def2c80630ebd832a09,https://api.github.com/repos/Automattic/vip-scanner/issues/24,"Enable the VIPInitCheck for VIP themes
+
+Fixes #24"
+https://api.github.com/repos/boto/s3transfer/commits/4c0d6ff40833030a3f2004b11fa53be90c6c5728,https://api.github.com/repos/boto/s3transfer/issues/120,"Fix unbound local error on get object
+
+Fixes #120."
+https://api.github.com/repos/webbushka/atom-react-snippets/commits/58a2cf0a6b7d3e61681d1d40d4168066670ad6a3,https://api.github.com/repos/webbushka/atom-react-snippets/issues/14,Updated _cpt fixes #14
+https://api.github.com/repos/openwisp/openwisp-users/commits/fb1464d12458d924e9676db3896d8deae15b8350,https://api.github.com/repos/openwisp/openwisp-users/issues/164,"[change/fix] Multi-tenant admin classes now allow only org managers #164
+
+Multi-tenant admin classes now allow only org managers.
+
+Before this version, a user needed to be only org member
+to see items of that organization in the admin, but this
+is wrong! An ``OrganizationUser`` which has ``is_admin=False`` is
+only an end-user of that organization.
+Instead, an ``OrganizationUser`` which has ``is_admin=True`` is
+also a manager and only this type of user shall be allowed
+to manage items of the organization through the django admin site.
+
+This is needed in order to support users being simple end-users
+in one organization but administrators in others, otherwise
+a staff user who is administrator of one organization would be
+able to change also items of other organizations where
+they are only members and not managers.
+
+Fixes #164"
+https://api.github.com/repos/openwisp/openwisp-users/commits/fc5dc61f35bac6dabbe2af0c65172db462bcb58d,https://api.github.com/repos/openwisp/openwisp-users/issues/113,"[docs] Remuved redundant install steps #113
+
+Fixes #113"
+https://api.github.com/repos/openwisp/openwisp-users/commits/f6e56721ececb75378f5306a33474fbbacf5f2dd,https://api.github.com/repos/openwisp/openwisp-users/issues/110,"[admin] Superuser can't delete a regular user #110
+
+It is but normal that a superuser should able to
+delete any object including organizationuser.
+Thus, I fixed the issue by updating the
+has_delete_permision of organizationuser to
+return True for superusers
+
+Fixes #110"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/63a99017eb30412e026ddf996781fdb7b5f0c536,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/161,"Fix #161, update for Webservice Correios documentation link"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/22042ee21caee59df6a931f8806aa438eadd20a1,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/105,"Adds adminstrative login and password for tracking integration
+
+Closes #105"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/1e6bb092848de69fe881de5dc3050b59b4d8262a,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/85,"Fixed min declared value, closes #85"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/8b081f7a9848d42cfa0ff6e5ec5816bf8b237f72,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/85,"Fixed minimum declared value, closes #85"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/a1f62f922f75265927a7bec3d8240c5b0b5f7f71,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/85,"Allow declared value only when PAC costs more than 18
+
+Closes #85"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/85d5e7da9ebcb60af9b1021c7c58f16d392b6193,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/45,"Introduces the wc_correios_get_address_by_postcode() function, closes #45"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/2823322e24f1631738538652d53ecd974bbcb7ec,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/31,"Fixed currency format for simulator, closes #31"
+https://api.github.com/repos/claudiosanches/woocommerce-correios/commits/7fcfbf8f3707a3fc00604254562f24472c0189b9,https://api.github.com/repos/claudiosanches/woocommerce-correios/issues/2,"Merge pull request #11 from claudiosmweb/feature-product-shipping-simulator
+
+Feature product shipping simulator, closes #2"
+https://api.github.com/repos/wearerequired/required-foundation/commits/8e679246beb274ca290ffd0743c0416b64653cc4,https://api.github.com/repos/wearerequired/required-foundation/issues/20,"Added closing a, fixes #20"
+https://api.github.com/repos/clearpathrobotics/robot_upstart/commits/6f357aeabc0ad5c75662dad1e16650ce8cb41448,https://api.github.com/repos/clearpathrobotics/robot_upstart/issues/7,"Merge pull request #22 from clearpathrobotics/uninstall
+
+Basic uninstall capability. Fixes #7, #2."
+https://api.github.com/repos/viritin/viritin/commits/6abe0e75c3833ecb6320dd5d8f7301062da0385d,https://api.github.com/repos/viritin/viritin/issues/298,"setting value of non attached IntegerField now works
+
+closes #298"
+https://api.github.com/repos/viritin/viritin/commits/85e3444a32c3420cace53ba21f75b6962212e057,https://api.github.com/repos/viritin/viritin/issues/308,"opened method, closes #308"
+https://api.github.com/repos/viritin/viritin/commits/5cf7a5279cd5f39ab0438bfb6df86d12da72d70b,https://api.github.com/repos/viritin/viritin/issues/309,"fixes NPE, closes #309"
+https://api.github.com/repos/viritin/viritin/commits/2b6b0e408d04fcf68c0b53a83fcdb52f8d3b7822,https://api.github.com/repos/viritin/viritin/issues/293,"Removed obsolete rebel.xml file, closes #293"
+https://api.github.com/repos/viritin/viritin/commits/81f4711db510f3476ef446b044a489dffa636496,https://api.github.com/repos/viritin/viritin/issues/267,"Ensure list container is properly set to backing select before setting value
+
+closes #267"
+https://api.github.com/repos/viritin/viritin/commits/07632f5e9d1b16e03999ce71e3743eefe7d3ec0e,https://api.github.com/repos/viritin/viritin/issues/268,"New item addition can now also be disabled in SubSetSelector
+
+closes #268"
+https://api.github.com/repos/viritin/viritin/commits/239c6103549d4d511c9766d5b6cf1518ae5a5bb3,https://api.github.com/repos/viritin/viritin/issues/271,"Properly clear validators instead of values
+
+closes #271"
+https://api.github.com/repos/viritin/viritin/commits/9da4a9c31aabb8ea74e3739bff5c3a22930ae9f8,https://api.github.com/repos/viritin/viritin/issues/257,"Fixes NPE regression with FilterableListContainer (#259)
+
+Fixes NPE regression with FilterableListContainer, closes #257"
+https://api.github.com/repos/viritin/viritin/commits/55ac54bec00b6fd9ba965d513943dffda1cdc2c6,https://api.github.com/repos/viritin/viritin/issues/219,"Improved usability of generated columns in MGrid
+
+closes #219"
+https://api.github.com/repos/viritin/viritin/commits/e70fbcc239ddba3af45974088f96963de346a9fe,https://api.github.com/repos/viritin/viritin/issues/232,Closes #232
+https://api.github.com/repos/viritin/viritin/commits/f772b279a6c76067c4547b1300e9d2f70864419f,https://api.github.com/repos/viritin/viritin/issues/225,"Allow also negative numbers to be typed
+
+closes #225"
+https://api.github.com/repos/viritin/viritin/commits/b7637bc6e3dd081240a92d738b2787cc0a525185,https://api.github.com/repos/viritin/viritin/issues/200,"Added constructors to MGridLayout
+
+Closes #200"
+https://api.github.com/repos/viritin/viritin/commits/c674d86cb3bb29b8c914a668182d0ed89c921c58,https://api.github.com/repos/viritin/viritin/issues/184,"Maintain sort property properly with sortablelazylisg MGrid
+
+closes #184"
+https://api.github.com/repos/viritin/viritin/commits/ea0d0bff758aa1bae8d009c7b3f1a4901ddfd46e,https://api.github.com/repos/viritin/viritin/issues/136,"LazyList is now more ""Grid 7.6 savvy""
+
+closes #136, #152"
+https://api.github.com/repos/viritin/viritin/commits/7f97be0d54b277769ec4383f37641a275b1afa94,https://api.github.com/repos/viritin/viritin/issues/157,Make handler interfaces serializable. Fixes #157
+https://api.github.com/repos/viritin/viritin/commits/2435b614272cde42c4112c10b326e3dd9377623c,https://api.github.com/repos/viritin/viritin/issues/155,Make interfaces serializable (Fixes #155)
+https://api.github.com/repos/viritin/viritin/commits/44644bde2363be49f5b51e81510be046f596bdc1,https://api.github.com/repos/viritin/viritin/issues/150,"Fixed wrong closed icon in inital rendering
+
+closes #150"
+https://api.github.com/repos/viritin/viritin/commits/8040151a92265be085a28b6e3ee6349decffc15c,https://api.github.com/repos/viritin/viritin/issues/134,"Added more constructors, closes #134"
+https://api.github.com/repos/viritin/viritin/commits/aefb976c065f7b3a6f97177b330524514eaa3bd7,https://api.github.com/repos/viritin/viritin/issues/124,"Added support for using lazy loading strategies and explicit type parameters
+
+Should make it possible to use with empty results from the backend.
+
+Closes #124"
+https://api.github.com/repos/viritin/viritin/commits/1ece84d2d73145f003c049e5a7c82073ab907310,https://api.github.com/repos/viritin/viritin/issues/125,"Use locale to fetch JSR 303 bean level validation error messages
+
+Closes #125"
+https://api.github.com/repos/viritin/viritin/commits/b4f7d72e971be635f9d53d3e2cd2cda93940aac6,https://api.github.com/repos/viritin/viritin/issues/123,"Avoid exeption if a referred nested property's object is null
+
+Closes #123"
+https://api.github.com/repos/viritin/viritin/commits/416b0d023058f8bbe3efc0a2c2f1d3e9e30d845f,https://api.github.com/repos/viritin/viritin/issues/115,"Support primitive types as ""nested properties""
+
+closes #115"
+https://api.github.com/repos/viritin/viritin/commits/0bb12e748d7c68227bb8f3b5d3c6c9ff8d11ee74,https://api.github.com/repos/viritin/viritin/issues/57,"Rudimentary support for ""editor row""
+
+Editor row now works, but the API is by no means typed in a sane way.
+
+closes #57 (just need to use MGrid)"
+https://api.github.com/repos/viritin/viritin/commits/b5835776050613a97a454483843ba95c27997101,https://api.github.com/repos/viritin/viritin/issues/108,"Added helpers to dynamically define lazy loading strategies
+
+closes #108"
+https://api.github.com/repos/viritin/viritin/commits/3922bcb272695cf8a1a9122138043ebd14bd0ee6,https://api.github.com/repos/viritin/viritin/issues/103,"Avoid NPE in certain configuration when manually adding new rows
+
+Closes #103"
+https://api.github.com/repos/viritin/viritin/commits/232449e96688cdf7448aee3f343cbfb19564fef7,https://api.github.com/repos/viritin/viritin/issues/86,"Refactored TypedSelect to be based on CustomField
+
+closes #84
+closes #86"
+https://api.github.com/repos/viritin/viritin/commits/764fe7f181f02ef5aa2483fe99e16d9d3fc0957f,https://api.github.com/repos/viritin/viritin/issues/87,"save/reset buttons state handling is now better for forms that are used kept open on save/reset button clicks
+
+closes #87"
+https://api.github.com/repos/viritin/viritin/commits/8373c6eafa2ed3714f982d971b079d88ecdbba0a,https://api.github.com/repos/viritin/viritin/issues/82,"Readonly and enabled state now properly propagated to underlaying select
+
+Closes #82"
+https://api.github.com/repos/viritin/viritin/commits/f89bdc52ff760c0bbfaf12607b0ff0e5a4198336,https://api.github.com/repos/viritin/viritin/issues/67,"Properly set action buttons states if entity is set when from is yet to be attached
+
+closes #67"
+https://api.github.com/repos/viritin/viritin/commits/e13f0a79ad461c24bde6540d0685ba6e2c3bb872,https://api.github.com/repos/viritin/viritin/issues/14,"Fixed sorting filtered filtereblelistcontainer
+
+closes #14"
+https://api.github.com/repos/viritin/viritin/commits/5690a2f9e412c81ff3e3c3ca5429e200586b5f08,https://api.github.com/repos/viritin/viritin/issues/24,"@NotNull fields now detected properly from the whole type hierarchy
+
+closes #24"
+https://api.github.com/repos/viritin/viritin/commits/7a40c584289f1cdec5223ecd569f3a473b78cae3,https://api.github.com/repos/viritin/viritin/issues/22,"Sorting is now null safe, fixes #22"
+https://api.github.com/repos/viritin/viritin/commits/f1806eb16af6bdb71b5516ec91ed444dae19262a,https://api.github.com/repos/viritin/viritin/issues/13,fixes #13
+https://api.github.com/repos/viritin/viritin/commits/d3f3293e409ecf9eec3df4796368a61d8592fb99,https://api.github.com/repos/viritin/viritin/issues/12,"Whitelists now transient, setWhitelist deprecated
+
+closes #12"
+https://api.github.com/repos/mdenil/dropout/commits/7311aea436694d013108af230a1778e5720e345d,https://api.github.com/repos/mdenil/dropout/issues/4,"Fix momentum bug.
+
+Fixes #4."
+https://api.github.com/repos/mdenil/dropout/commits/4ec3844ed76db3c831f55721249553048f748112,https://api.github.com/repos/mdenil/dropout/issues/3,"Fix weight scaling for first layer.
+
+Fixes #3."
+https://api.github.com/repos/SimonSimCity/Xamarin-CrossDownloadManager/commits/3d67dd04a6baf04aa8fe786a9f4c2f7750851929,https://api.github.com/repos/SimonSimCity/Xamarin-CrossDownloadManager/issues/28,Fixed #28 - Crash when initializing on iOS <9
+https://api.github.com/repos/SimonSimCity/Xamarin-CrossDownloadManager/commits/e907cbcfbb86674a9ad2f4e4e0cc916754f20ba0,https://api.github.com/repos/SimonSimCity/Xamarin-CrossDownloadManager/issues/26,Removed all overwritten methods [fixes #26] [refs #16]
+https://api.github.com/repos/pires/kubernetes-elk-cluster/commits/108f879610829b888001db7d7bd38cd03508dcab,https://api.github.com/repos/pires/kubernetes-elk-cluster/issues/5,Fixes #5
+https://api.github.com/repos/eugener/oxbow/commits/1cc94f7d172aa9367e118102edadb45e8b364391,https://api.github.com/repos/eugener/oxbow/issues/15,"Update swingbits/src/main/java/org/oxbow/swingbits/dialog/task/TaskDialog.java
+
+close #15"
+https://api.github.com/repos/eugener/oxbow/commits/180f6acfddfdb130855e2ae3b4e70f65560a3742,https://api.github.com/repos/eugener/oxbow/issues/6,close #6
+https://api.github.com/repos/screepers/typed-screeps/commits/ba933bcb99d6a7a4ea54bc31496ec7a801dc4fdb,https://api.github.com/repos/screepers/typed-screeps/issues/165,"Add Ruin type to target for PowerCreep.withdraw()
+
+Fixes #165"
+https://api.github.com/repos/screepers/typed-screeps/commits/3f014b311221b11f3c4aacf1e5ec0a89b78d7eb7,https://api.github.com/repos/screepers/typed-screeps/issues/82,Fix #82 by adding string to  pos.createFlag return
+https://api.github.com/repos/screepers/typed-screeps/commits/2a352d98b58e190a78caeacc7499f4b8311522c4,https://api.github.com/repos/screepers/typed-screeps/issues/8,"Add optional `order` property on Transaction interface
+
+Fixes #8."
+https://api.github.com/repos/bitcoinjs/bip38/commits/09be59857319dc2195eb15ca6ef549b3d41f72fa,https://api.github.com/repos/bitcoinjs/bip38/issues/22,README: resolve #22
+https://api.github.com/repos/mgufrone/cpanel-php/commits/3fa452119935fafd95aea8395c5b4e0538e8ff3b,https://api.github.com/repos/mgufrone/cpanel-php/issues/11,fix #11
+https://api.github.com/repos/clMathLibraries/clSPARSE/commits/c29b61e3fb3aa8dd7d58758325df95cd18200c86,https://api.github.com/repos/clMathLibraries/clSPARSE/issues/117,Resolves #117; adding explicit libdl dependency to clsparse
+https://api.github.com/repos/clMathLibraries/clSPARSE/commits/2ca697bc3ae5622e2ec77baa3e32d65961e79eed,https://api.github.com/repos/clMathLibraries/clSPARSE/issues/115,"Adding apache boilerplate license text to the top of all code
+files.  resolves #115"
+https://api.github.com/repos/rednez/angular-user-idle/commits/e96dd1150ccfb7adce7229c5253556617b7bfe20,https://api.github.com/repos/rednez/angular-user-idle/issues/111,Fixed #111
+https://api.github.com/repos/rednez/angular-user-idle/commits/d0257dba45cf26fef7390552957c0a2b442e5e19,https://api.github.com/repos/rednez/angular-user-idle/issues/2,"fix(aot): include ts-sources in dist (close #2, #3)"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/8c38c3ee0a816730c2e43326ec2e84c1e1ad5193,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/43,"Always get monikers in 96 DPI
+Fixed #43"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/6b25309ea65ac32971b90da9172082c2ae698622,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/41,"Added missing null check
+Fixed #41"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/8adce5a45bb979017d12b8d825ab7f3d1a6daadf,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/32,"Support for VS15
+Fixed #32"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/45201ac8cf07cef82337313fbeac3d21a5956dbe,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/35,"Fixed broken link
+Fixed #35"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/e58f21fc03e040cf98a345b5a4d893f1d659b18d,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/34,"Added error handling
+Fixed #34"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/c8697be63624aad885d85288e77912bfa803aeca,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/36,"Added missing null check
+Fixed #36"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/9cc892c8417cb279ca95e0cc8577083161e608cb,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/15,No longer set height on margin. Fixed #15
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/8eb804453c484003a7998bf20a063f8d80d5a0d5,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/12,Compile on VS2015 RC build server. Fixed #12
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/9dde9c22482958fea084aaf3914ebe08515e8ecf,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/10,"Added option to execute build, when signing VSIX
+
+Fixed madskristensen/ExtensibilityTools#10"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/749aa5e93f57921cc089222608435886765dce3d,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/8,"Disabled Auto-sync VSCT commands for non C#/VB
+
+Fixed madskristensen/ExtensibilityTools#8"
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/fa6d758e5730abb9bb43804d3d439c20f8b5593c,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/2,Added missing null check. Fixed #2
+https://api.github.com/repos/madskristensen/ExtensibilityTools/commits/d4db50f5003faba1f7a0ff9e8a1bece9f7a868c3,https://api.github.com/repos/madskristensen/ExtensibilityTools/issues/1,Added try/catch. Fixes #1
+https://api.github.com/repos/elm/http/commits/8fab9aec4a3cc37c7ea0b9ce83e3d34699c1e289,https://api.github.com/repos/elm/http/issues/41,"Fix error in kernel code
+
+Fixes https://github.com/elm/http/issues/41"
+https://api.github.com/repos/elm/http/commits/f807df4c16008ca11679f51c2745b9aa21525711,https://api.github.com/repos/elm/http/issues/4,"Get the right Content-Type for multipart bodies
+
+Fix #4 and fix #5"
+https://api.github.com/repos/elm/http/commits/77c1bd386aa1458d27c582a2eb06314a8aac2545,https://api.github.com/repos/elm/http/issues/3,"Fix #3, define mapExpect"
+https://api.github.com/repos/hapijs/basic/commits/9acb8342dff1c37a323e2ed96c3fe9a62deb5fd9,https://api.github.com/repos/hapijs/basic/issues/20,Update dev deps. Closes #20
+https://api.github.com/repos/hapijs/basic/commits/927d47b9b1b5688406941ddbcc92952a0a17e85b,https://api.github.com/repos/hapijs/basic/issues/11,Fix : in password. Closes #11
+https://api.github.com/repos/hapijs/basic/commits/2d4a86928d34527edb756865b9fc1280ffe69a6c,https://api.github.com/repos/hapijs/basic/issues/5,Coverage. Closes #5
+https://api.github.com/repos/jochenwierum/openvpn-manager/commits/0d276d95509a47e850d1c81b77f3295d21b7ec98,https://api.github.com/repos/jochenwierum/openvpn-manager/issues/30,catching IOException in UtilsHelper.LocateOpenVPN [ fixes jochenwierum/openvpn-manager#30 ]
+https://api.github.com/repos/gsuez/master-bootstrap-3/commits/01eadfbf898b16498450861e0389879c3fea7784,https://api.github.com/repos/gsuez/master-bootstrap-3/issues/43,[fix] update scssphp to v0.6.7. Fixes #43
+https://api.github.com/repos/excellalabs/js-best-practices-workshopper/commits/0f3bdb050df4e92178bbb942981261b3c460ae93,https://api.github.com/repos/excellalabs/js-best-practices-workshopper/issues/33,"Merge pull request #34 from edgargs/tdd-sort-fix
+
+#33 - Sort function was change in V8 v7.0"
+https://api.github.com/repos/unfulvio/wp-api-menus/commits/8e0ac3720b91296a2d17f4d6470a47f2b23c365c,https://api.github.com/repos/unfulvio/wp-api-menus/issues/8,Fixes #8
+https://api.github.com/repos/unfulvio/wp-api-menus/commits/c19c1d0494f07ed86524053f02524139d2c88a9c,https://api.github.com/repos/unfulvio/wp-api-menus/issues/2,Fixes #2
+https://api.github.com/repos/gettyimages/spray-swagger/commits/da3f0f6a9ca9b68e4c43dc6b8aed659252a65fe9,https://api.github.com/repos/gettyimages/spray-swagger/issues/55,"Updated logger output, fixes #55"
+https://api.github.com/repos/gettyimages/spray-swagger/commits/4a75d8c50832523484edf493789edd350aefecec,https://api.github.com/repos/gettyimages/spray-swagger/issues/17,"Fixing swagger-ui link, resolves #17"
+https://api.github.com/repos/mbosecke/template-benchmark/commits/e4641085e23b8e31835de9c3a7955bb71c4b21df,https://api.github.com/repos/mbosecke/template-benchmark/issues/4,Moved some mustache pre-processing into the benchmark method. Fixes #4
+https://api.github.com/repos/gregzaal/Auto-Voice-Channels/commits/df65ce60d141d49e94727ccc5b5da6400c6c34b9,https://api.github.com/repos/gregzaal/Auto-Voice-Channels/issues/35,"Fix inconsistent channel positioning
+Close #35"
+https://api.github.com/repos/miaoerduo/cartoon-cat/commits/6970d79ace76612c1b5e3ea9b23721d977cd4767,https://api.github.com/repos/miaoerduo/cartoon-cat/issues/5,"fix: compatible with python3, closes #5"
+https://api.github.com/repos/vlkozlovsky/ansible-cloud-hosting/commits/c4e72636dfa2e0f17370f29926d674a652122fe7,https://api.github.com/repos/vlkozlovsky/ansible-cloud-hosting/issues/1,Fixed #1 & added tasks 'swarn' and 'first-run'
+https://api.github.com/repos/Michael-J-Scofield/discord-anti-spam/commits/6560ea92be4ad00f6130aae8145c601767abaa35,https://api.github.com/repos/Michael-J-Scofield/discord-anti-spam/issues/72,"feat: add maxDuplicatesInterval
+
+Closes #72"
+https://api.github.com/repos/Michael-J-Scofield/discord-anti-spam/commits/d2caee01e35102b7f4a21c5d28ab1ed7ce4531d3,https://api.github.com/repos/Michael-J-Scofield/discord-anti-spam/issues/23,Fix #23
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/d1895376b8d98879f677e76fe6124fbaf59478c9,https://api.github.com/repos/ViaVersion/ViaRewind/issues/390,fix #390
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/daa5e21d1232c52dbcfe22f629d3e805166f9ef8,https://api.github.com/repos/ViaVersion/ViaRewind/issues/382,"Sponge 8, reload config on  ReloadEvent, fix #382"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/f2d2de0a72ab01d0803101a2d14edebe1d2e99eb,https://api.github.com/repos/ViaVersion/ViaRewind/issues/326,"Fix item slot metadata being removed when sending to 1.7 clients, closes #326 (#343)"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/1785aad508de4ee675c1a92a8c038ed0e448e666,https://api.github.com/repos/ViaVersion/ViaRewind/issues/336,try to fix #336
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/bc0aed1cdf821b66a26939554b04eb130dd0c26b,https://api.github.com/repos/ViaVersion/ViaRewind/issues/316,"Fix bossbar
+Fixes #316"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/7b4182122434053360f8341bef7d8b646d978ec0,https://api.github.com/repos/ViaVersion/ViaRewind/issues/281,"fix #281, some code cleanup"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/3a93f8205f1488768a7d9a77cb76a8097a68eaf0,https://api.github.com/repos/ViaVersion/ViaRewind/issues/232,"Change bossbar packets to be off-thread (fixes #232) (#262)
+
+* Change confirmTeleport to be off-thread
+* Reverse changes to async bossbar packets instead"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/103871cb5593bfd61ed39cfe8ce56f34cd640383,https://api.github.com/repos/ViaVersion/ViaRewind/issues/233,fix #233
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/4eaec92ff88ac705b360649b2252b4f9242b2680,https://api.github.com/repos/ViaVersion/ViaRewind/issues/235,fix #235
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/3a15e1c979daa2c8b44b1968ef11b958c99a09e8,https://api.github.com/repos/ViaVersion/ViaRewind/issues/194,"Add correct float value for head height
+Fixes #194"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/6b438ee85662cdd205dd152ab84a67f8fc811034,https://api.github.com/repos/ViaVersion/ViaRewind/issues/84,"fixes #84, #114"
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/b94ceb956c66dcd08b513978278af745f0cc7e9e,https://api.github.com/repos/ViaVersion/ViaRewind/issues/98,fix #98
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/f2fbfe8ca55579296a87e6e664f17f7499c7221e,https://api.github.com/repos/ViaVersion/ViaRewind/issues/91,fix #91
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/baea8cab1dc2b8a87a9d973512f3707a6bba3583,https://api.github.com/repos/ViaVersion/ViaRewind/issues/87,fix #87
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/109fd35b5dfbe90583766a7f7ea1c1c2b9fe0e0f,https://api.github.com/repos/ViaVersion/ViaRewind/issues/71,fix #71
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/8998b1453465344cbc632b19b0b0d4e616c94a25,https://api.github.com/repos/ViaVersion/ViaRewind/issues/70,fix #70
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/0347aaeaecef723b763f1a6937a0ecbf94217510,https://api.github.com/repos/ViaVersion/ViaRewind/issues/44,fix #43 and fix #44
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/0347aaeaecef723b763f1a6937a0ecbf94217510,https://api.github.com/repos/ViaVersion/ViaRewind/issues/43,fix #43 and fix #44
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/226766f3ac724f40d0a752fd6c6149caa96753aa,https://api.github.com/repos/ViaVersion/ViaRewind/issues/21,fix several sign issues (should fix #21)
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/02c28bcfe85e806a128dfc7ba356760a236867ff,https://api.github.com/repos/ViaVersion/ViaRewind/issues/41,fix #41
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/ce2fa5c08cf278b22de462151812c2becf9476a1,https://api.github.com/repos/ViaVersion/ViaRewind/issues/42,fix #42
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/2ff43d95be85e7f4985339173da271fe7dc39950,https://api.github.com/repos/ViaVersion/ViaRewind/issues/40,fix #40
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/b88a46909d2f95ce0ca294f44f81b00cb0d1e0b6,https://api.github.com/repos/ViaVersion/ViaRewind/issues/33,fix #33
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/cec88c2f602fc1fccb2212ed114bac505dc3e769,https://api.github.com/repos/ViaVersion/ViaRewind/issues/39,fix #39
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/db0026c4d5f653b99889f6386023e85f4806fb32,https://api.github.com/repos/ViaVersion/ViaRewind/issues/36,fix #36 and #37
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/e4219f5b9b8c8942dabf94f3d8ec8230b1f3d84b,https://api.github.com/repos/ViaVersion/ViaRewind/issues/35,fix #35
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/3419ea448a568d000a2be0ab477b4d97c80590a3,https://api.github.com/repos/ViaVersion/ViaRewind/issues/32,fix #32
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/baf4444d095fe76e04629df35896f62c14618e83,https://api.github.com/repos/ViaVersion/ViaRewind/issues/31,fix #31
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/fd5d75456920502ad297cf7376432be1befd898f,https://api.github.com/repos/ViaVersion/ViaRewind/issues/28,fix #28
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/689c6ac700ddb3caef14ca698696fe99506209a9,https://api.github.com/repos/ViaVersion/ViaRewind/issues/23,fix #23
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/e3161490a76f961f7bf91d18be0a953e34efcd29,https://api.github.com/repos/ViaVersion/ViaRewind/issues/27,fix #27
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/1ea36816357dc6e690dd7e70adaa00efaaedd76d,https://api.github.com/repos/ViaVersion/ViaRewind/issues/20,fix #20
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/e1d0dae2f6e1b5b7edf7bb16fe3b9fc612207209,https://api.github.com/repos/ViaVersion/ViaRewind/issues/16,Fix #16
+https://api.github.com/repos/ViaVersion/ViaRewind/commits/1fb79f8629d181e61ea62f7720f3d5f5033b103b,https://api.github.com/repos/ViaVersion/ViaRewind/issues/2,fix #2
+https://api.github.com/repos/PolymerElements/neon-animation/commits/1b79952a9807d5ff998e506f261d467d02126b56,https://api.github.com/repos/PolymerElements/neon-animation/issues/87,Bump web animations polyfill (fixes #87)
+https://api.github.com/repos/danikf/tik4net/commits/fd8d94b817e7ab00f3542279828042c239e88c5c,https://api.github.com/repos/danikf/tik4net/issues/41,Correct behavior when connection was forced to close #41
+https://api.github.com/repos/tebjan/Sanford.Multimedia.Midi/commits/115d2a3cfd15909f3a660901eafae4b7341554d9,https://api.github.com/repos/tebjan/Sanford.Multimedia.Midi/issues/27,upped version and fixed midi format check. fixes #27
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/dbc84a521776fe9b689b17ce9824dc7bd52e4115,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/409,"Merge pull request #410 from schiegg/master
+
+Fix coreGreenberet/homematicip-rest-api#409"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/a45f5244944adbafc0d9453fa7f1887e48c3d017,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/342,fix #342
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/e1a0471fa5760048103bcd3830a372a699296aa0,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/223,fixes #223
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/a3bdd5cc2cd25606dbc158fd1e6eb7ee42e1bde4,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/188,fixes #188
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/071bebe5bf1ef3e361bfca78aadb8ae63a7fc1d9,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/185,"added HumidityWarningRouleGroup.outdoorClimateSensor
+closes #185"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/5f9b37097911f44d9b0f37e3d9cfb2a063f7be0e,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/183,"added support for HmIP-eTRV-C (Heating-thermostat compact without display) closes #183
+
+added eatingThermostat.valveActualTemperature = we are now able to read the measured temperature on the VALVE!"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/788f4d493542f7e1dfb2642f391d7da33edb50d4,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/167,"added hmip_fbl (#175)
+
+* started implementation of HMIP-FBL
+closes #167
+
+* added comments to FullFlushShutter.set_shutter_level/set_shutter_stop and FullFlushBlind.set_slats_level
+added AsyncFullFlushBlind
+added BlindChannel
+
+* added test cases for set_shutter_level, set_shutter_stop, set_slats_level
+
+* added missing groups parameter in BlindChannel.from_json"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/80553237aa304182b98c95f379db763ddb632440,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/155,"added HMIP-FCI1
+closes #155"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/b771852fac99d12712e9731d914cb5e1add1d46f,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/141,"added new tests for some async groups
+fixed #141"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/e632f22c8172d480da7107ac01c10d2ec345a22c,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/129,fix #129
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/ea2b566940aa518f0bd15693971d48dd1fbaf5f5,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/117,removed obsolete config2ini function. this should fix #117
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/a2aee1d9f06a9bc3a8c5d95e0df0dfab373ee1c3,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/96,"added bytes2str & detect_encoding to helpers.py see https://bugs.python.org/issue17909
+fix #96"
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/d3f9663c2b0d2cd732633bd65332b6da876cbd95,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/28,fix #28
+https://api.github.com/repos/coreGreenberet/homematicip-rest-api/commits/4c1725b980d9453c04d2d453ea8466e8a60f9728,https://api.github.com/repos/coreGreenberet/homematicip-rest-api/issues/29,"implemented the changed api path
+fixed #29"
+https://api.github.com/repos/vojtech-dobes/nette.ajax.js/commits/3ed4c767719d86e5f8d879307f1903b6e0669ef3,https://api.github.com/repos/vojtech-dobes/nette.ajax.js/issues/77,History: snippets in components get cached too [closes #77]
+https://api.github.com/repos/vojtech-dobes/nette.ajax.js/commits/5d82d40eea3d457ee13d787c683c2008042d0b07,https://api.github.com/repos/vojtech-dobes/nette.ajax.js/issues/57,Validation: event is also killed with 'return false' [closes #57]
+https://api.github.com/repos/vojtech-dobes/nette.ajax.js/commits/d62dda317b81a7b451e72dc0b2441c850cec7fc0,https://api.github.com/repos/vojtech-dobes/nette.ajax.js/issues/44,"Prevention of possible undefined in 'get(0)' [closes #44, #45]"
+https://api.github.com/repos/vojtech-dobes/nette.ajax.js/commits/0759f72350de341cc38844bc3b12e67c5542afc3,https://api.github.com/repos/vojtech-dobes/nette.ajax.js/issues/19,Fixed typo breaking 'unique' extension [fixes #19]
+https://api.github.com/repos/serilog/serilog-sinks-console/commits/a464f75d65e561413b682e1bc26db96e3bc57e77,https://api.github.com/repos/serilog/serilog-sinks-console/issues/73,Fixes #73 - CoC link
+https://api.github.com/repos/OmgDef/yii2-multilingual-behavior/commits/d84cbb350f379307ead2010e295402cb6a42a6a5,https://api.github.com/repos/OmgDef/yii2-multilingual-behavior/issues/74,composer update (fix #74)
+https://api.github.com/repos/uos/rospy_message_converter/commits/4ac9c3bcbe011362f4a48f9805ba4aa898cc95f0,https://api.github.com/repos/uos/rospy_message_converter/issues/45,"Add param binary_array_as_bytes
+
+Closes #45."
+https://api.github.com/repos/uos/rospy_message_converter/commits/9ecd4b362adcefa7ef13fa60c44bd07301eafcdb,https://api.github.com/repos/uos/rospy_message_converter/issues/36,"Merge pull request #37 from alecarnevale/missing_field_wrong_type
+
+* Check that type in python dict matches the field type of the ROS msg
+* Optionally check that all fields are defined in the python dict
+
+Closes #36."
+https://api.github.com/repos/private-face/jquery.fullscreen/commits/ebe0b6a40f8f22c5186da7dc117560081e047ee7,https://api.github.com/repos/private-face/jquery.fullscreen/issues/23,IE // JS-Error on call $.fullscreen.exit() when fullscreen wasn't open [fixes #23]
+https://api.github.com/repos/private-face/jquery.fullscreen/commits/d13b2e5506bb47959f52b7c8e99739a7687a0320,https://api.github.com/repos/private-face/jquery.fullscreen/issues/17,support for IE fullscreen events naming [fixes #17]
+https://api.github.com/repos/private-face/jquery.fullscreen/commits/fb0b4b961cf307d8e8f7aa3b23816d297a55ecb5,https://api.github.com/repos/private-face/jquery.fullscreen/issues/13,fixed jquery version detection [fixes #13]
+https://api.github.com/repos/private-face/jquery.fullscreen/commits/e547e040f4824b26b44dac204c20a7edd697f867,https://api.github.com/repos/private-face/jquery.fullscreen/issues/9,force fallback on Chrome for Android [fixes #9]
+https://api.github.com/repos/private-face/jquery.fullscreen/commits/1134119e997d5db0de2b64f298983c2fea5a7200,https://api.github.com/repos/private-face/jquery.fullscreen/issues/7,"set ""position:fixed"" to fullscreened block only in fallback [fixes #7]"
+https://api.github.com/repos/samczsun/Skype4J/commits/2ddf02722d8fb92a2610241af02ee2de15d81ad2,https://api.github.com/repos/samczsun/Skype4J/issues/123,fix #123
+https://api.github.com/repos/samczsun/Skype4J/commits/bfaff2f8bb22bd1c617be4ed93b03d7c8c5a0fb4,https://api.github.com/repos/samczsun/Skype4J/issues/85,Handle Guest usernames. Fixes #85
+https://api.github.com/repos/samczsun/Skype4J/commits/855d39db3d7908967f8e13fe24a26f14f8dab791,https://api.github.com/repos/samczsun/Skype4J/issues/88,Fix #88
+https://api.github.com/repos/samczsun/Skype4J/commits/041dea7c5c602d60db84c7190942841e5fc3f5db,https://api.github.com/repos/samczsun/Skype4J/issues/81,Fix #81
+https://api.github.com/repos/samczsun/Skype4J/commits/2e1aca5114eb30e40d85389127467dc6df384843,https://api.github.com/repos/samczsun/Skype4J/issues/80,Change GroupChat creation. Fixes #80
+https://api.github.com/repos/samczsun/Skype4J/commits/a91ad7473ace924b5f374ebf87b900d628f80ff8,https://api.github.com/repos/samczsun/Skype4J/issues/77,"Follow Skype rules, fixes #77"
+https://api.github.com/repos/samczsun/Skype4J/commits/d0c11d81462af95c727fb6c738988ac551f15faf,https://api.github.com/repos/samczsun/Skype4J/issues/76,Fix #76
+https://api.github.com/repos/samczsun/Skype4J/commits/e580e8104cbcecbf318aea2143b6158be6269f0d,https://api.github.com/repos/samczsun/Skype4J/issues/55,"This should fix #55, #56"
+https://api.github.com/repos/samczsun/Skype4J/commits/c039954df1075529af18a0227bec0de6718a7e4b,https://api.github.com/repos/samczsun/Skype4J/issues/50,Set cookie properly. Fixes #50
+https://api.github.com/repos/samczsun/Skype4J/commits/10f0b0aca3fbabbc4470990cdd67288f44a9311a,https://api.github.com/repos/samczsun/Skype4J/issues/37,"Fix documentation and bugs
+
+Thanks to FindBugs! Fixes #37"
+https://api.github.com/repos/samczsun/Skype4J/commits/7f99fd93ff59d490d41258acdd7913c1b1c3e050,https://api.github.com/repos/samczsun/Skype4J/issues/18,"Handle text creation properly. Fixes #18
+
+Creating plaintext would assume valid HTML, which violated POLA. Text will
+be escaped when invoking Text.plain(*) and Text.rawHtml(String) will
+be the recommended method to send custom HTML in the future"
+https://api.github.com/repos/samczsun/Skype4J/commits/cdeeee6b4b90679b061745acbb09614be5fae9ee,https://api.github.com/repos/samczsun/Skype4J/issues/17,Usernames can be mixed case! Fixes #17
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/efd9e36763b4f530fb19ecef93304e30062912c0,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/195,"The MQTT client does not reset the connect status to the closed status when a TCP connection cannot be established, preventing reconnection to happen.
+
+When the client connection fails we must reset the state from connecting to closed.
+
+fixes #195"
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/0ab473d8b0fc545c52bef940e378ff4362c44cf1,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/188,The MQTT client IdleStateHandler should only be configured for notifying when no message has been written by the client instead of being notified when no message has been sent nor received. - close #189 - close #188
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/4da95b97a9b55461cce4337733b0168c7913003a,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/135,MqttWill json constructor should use willQos json member instead of willMessage - fixes #135
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/2fcef63f7304ac1a7e032c4343b95d2ab9d42eae,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/177,"Handle client concurrent connects gracefully, when a client is already connecting subsequent connection attempt should result in a failure - fixes #177"
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/7bd04880bf3d29027eeae3e6531d6fccca0c62f0,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/132,Server must send CONNACK 0x01 if CONNECT contains unsupported version of protocol - fixes #132
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/a5cb13de11cf985c691341cd2afa6e2a76387137,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/133,Client message QoS state improvements - fixes #143 - fixes #133 (#144)
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/a5cb13de11cf985c691341cd2afa6e2a76387137,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/143,Client message QoS state improvements - fixes #143 - fixes #133 (#144)
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/0f627da9b68ce14b12ff61af87e60eed0f5e9b9a,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/108,Fix data objects - fixes #108
+https://api.github.com/repos/vert-x3/vertx-mqtt/commits/f5dcb8e747d55c7cb8d8634bbbedbcc01c833661,https://api.github.com/repos/vert-x3/vertx-mqtt/issues/94,Race condition in server when accepting a connection - fixes #94
+https://api.github.com/repos/fishpepper/OpenSky/commits/efa98a8ef5d64d930e04a21c0d60027695b7b1ff,https://api.github.com/repos/fishpepper/OpenSky/issues/19,fixes #19
+https://api.github.com/repos/fishpepper/OpenSky/commits/58c4e8ab94938c5f68b4c156df01d08483edd9aa,https://api.github.com/repos/fishpepper/OpenSky/issues/11,should fix #11
+https://api.github.com/repos/widmogrod/zf2-assetic-module/commits/38d8b05d7895e49d80871a3a3c14003ae38c0d31,https://api.github.com/repos/widmogrod/zf2-assetic-module/issues/22,fix #22
+https://api.github.com/repos/zubairehman/Flogs/commits/292d15fc76d418b593d64a1219dfef640c7bb615,https://api.github.com/repos/zubairehman/Flogs/issues/48,Fix #48 - Range error
+https://api.github.com/repos/zubairehman/Flogs/commits/7e0f9226ad77fdac5af27ad7913ff40bc8d361df,https://api.github.com/repos/zubairehman/Flogs/issues/5,"- upgraded to sembast v2.0
+- fixed https://github.com/zubairehman/Flogs/issues/5"
+https://api.github.com/repos/abhinavguptas/Salesforce-Lookup-Rollup-Summaries/commits/7f4b0f1c78d1d4b9ed7023fe9b9c5ae0d8bc1484,https://api.github.com/repos/abhinavguptas/Salesforce-Lookup-Rollup-Summaries/issues/1,"Fixes #1
+
+Fixed this issue:
+System.QueryException: alias is too long, maximum of 25 characters: Annualized_Recurring_Revenue__c
+
+Closes #1"
+https://api.github.com/repos/mampfes/hacs_waste_collection_schedule/commits/b8e466825d0783d1d0db0cc1a0ab117aff16407f,https://api.github.com/repos/mampfes/hacs_waste_collection_schedule/issues/180,fix #180: support events for recycleapp_be
+https://api.github.com/repos/mampfes/hacs_waste_collection_schedule/commits/51ead5cfa435453eebfd70bb0bc770d6e20625e2,https://api.github.com/repos/mampfes/hacs_waste_collection_schedule/issues/8,fix #8: force start-time to the beginning of the day
+https://api.github.com/repos/sveale/remote-edit/commits/417ac8552c953b51310b1179a315b821176a887d,https://api.github.com/repos/sveale/remote-edit/issues/54,Updated ssh2 version. Fixes #54
+https://api.github.com/repos/sveale/remote-edit/commits/157a07bfd6ca08074383b15c9c6cdb6c3f397c5c,https://api.github.com/repos/sveale/remote-edit/issues/38,Should fix #38 and #39
+https://api.github.com/repos/sveale/remote-edit/commits/7bcc36b4759cc38fe24ce898a44cac71cb31742f,https://api.github.com/repos/sveale/remote-edit/issues/31,fixes #31
+https://api.github.com/repos/sveale/remote-edit/commits/d834c4f4163ec37942ea86e64b419acd5baf7d73,https://api.github.com/repos/sveale/remote-edit/issues/8,"Fixes #8.
+Added current dir and prev dir dots to ssh hosts."
+https://api.github.com/repos/sveale/remote-edit/commits/d9c2d0b52e7c6b72dc5a871480d2b55a3f4dc89f,https://api.github.com/repos/sveale/remote-edit/issues/6,Should fix #6
+https://api.github.com/repos/sveale/remote-edit/commits/c325cefde595ab2e1d1ac90a1bb0b223a9795905,https://api.github.com/repos/sveale/remote-edit/issues/1,Should fix #1 and #7
+https://api.github.com/repos/sveale/remote-edit/commits/560c6edb0199b379544f3d5a65852c932eea0d03,https://api.github.com/repos/sveale/remote-edit/issues/4,Fixes #4
+https://api.github.com/repos/squix78/MAX7219LedMatrix/commits/873d18c5deb5d771b3c27458ed3ec830bb77fc3c,https://api.github.com/repos/squix78/MAX7219LedMatrix/issues/1,"Code fixes and consistent formatting
+
+- replace NULL string with empty string
+- use SPI_MODE0 instead of SPI_MODE3
+
+fixes #1"
+https://api.github.com/repos/jackmitch/libsoc/commits/5f62d394aa053f17f905c16dd07d588fb04b589c,https://api.github.com/repos/jackmitch/libsoc/issues/63,spi: return MODE_ERROR instead of ambiguous EXIT_FAILURE (fixes #63)
+https://api.github.com/repos/jackmitch/libsoc/commits/fabf8f0083d94b5f36b456c89005359721ee8fd3,https://api.github.com/repos/jackmitch/libsoc/issues/62,gpio: add stdlib.h for EXIT_* defines (fixes #62)
+https://api.github.com/repos/smira/txZMQ/commits/b7e27f1539e79df6f5eacdd888c30bb87e3acbe0,https://api.github.com/repos/smira/txZMQ/issues/18,Renamed ZmqXREQ and ZmqXREP to ZmqREQ and ZmqREP respectively; updated the doctypes accordingly; provided backwards compat. with the previous naming scheme; fixes #18
+https://api.github.com/repos/phihag/pdfform.js/commits/3378434364c92ac4f4f8dcf42ebc04eeb3c6bdb3,https://api.github.com/repos/phihag/pdfform.js/issues/6,support writing unicode strings (closes #6)
+https://api.github.com/repos/jkoelker/python-nest/commits/ea36179b7673ae140502386edf0d02d691c7cefe,https://api.github.com/repos/jkoelker/python-nest/issues/110,"readme: update temperature scale doc
+
+Clarifies the api change with the official api.
+
+Fixes: #110"
+https://api.github.com/repos/jkoelker/python-nest/commits/5657cb8337e8cf898c98d57c8561cab9076c9ea0,https://api.github.com/repos/jkoelker/python-nest/issues/22,"Add `observation_epoch` as a forecast date key
+
+Also updates the AZMUTH_MAP to include new aliases
+Forces Forcast time to be a float
+
+Fixes #22"
+https://api.github.com/repos/jkoelker/python-nest/commits/06fff7ae2c25e081f3c1c28e5a6830cebdd06121,https://api.github.com/repos/jkoelker/python-nest/issues/21,"Document device.temperature
+
+device.temp was an error
+
+Fixes #21"
+https://api.github.com/repos/jkoelker/python-nest/commits/6d76e523263fb45366efd1f8d8a8cde10e85f6a8,https://api.github.com/repos/jkoelker/python-nest/issues/10,"Update CLI to run range target through convert_temp
+
+Also force temperature to be float type
+
+Fixes #10"
+https://api.github.com/repos/jkoelker/python-nest/commits/8f1ab15c46852fa6856d031920749b5af1ae1d6b,https://api.github.com/repos/jkoelker/python-nest/issues/8,"Allow specifying serial or structure for away
+
+Adds the global -S/--structure argument for specifying the structure
+name. Away status will be scoped to the given structure name or to the
+structure that a device appears in, falling back to just the first
+structure found.
+
+Also scopes device discovery for all other functions if specifed to only
+the devices in that structure.
+
+Fixes #8"
+https://api.github.com/repos/jkoelker/python-nest/commits/9526b43d9bef335255111ee9313c4a6035eb2b8d,https://api.github.com/repos/jkoelker/python-nest/issues/6,"Fix temperature setting when mode != range
+
+Since args.temperature is always a list, when mode is not range we still
+need to use args.temperature[0]
+
+Fixes #6"
+https://api.github.com/repos/coldhakca/tor-relay-bootstrap/commits/e71e301d1dfec211f422505526dc946c1d5e7ddd,https://api.github.com/repos/coldhakca/tor-relay-bootstrap/issues/2,fixes #2
+https://api.github.com/repos/woocommerce/wc-api-node/commits/568ca6edf5e878530e415a7d7804bdd1fe0c335a,https://api.github.com/repos/woocommerce/wc-api-node/issues/48,"Fixed WordPress 4.7 compatibility, closes #48"
+https://api.github.com/repos/PaulStoffregen/TimeAlarms/commits/6f5eb1d960a6fb41c398e8ccf2c0d944cadf7c16,https://api.github.com/repos/PaulStoffregen/TimeAlarms/issues/12,"Fix bug in write()
+fixes #12"
+https://api.github.com/repos/PaulStoffregen/TimeAlarms/commits/bc81d4a99e204c053f5ffe3e0f0347157467a2b4,https://api.github.com/repos/PaulStoffregen/TimeAlarms/issues/3,"Fix PaulStoffregen/TimeAlarms#3
+
+This fix the issue where alarms set to go off at Midnight (on a daily or weekly basis)
+will fail and act as if the alarm is disabled.
+
+Note that the definition of ""dtINVALID_TIME"" changed (see below).
+
+The following changes have been made to TimeAlarms.cpp:
+-AlarmClass::updateNextTrigget(): Only rely on Mode.isEnabled to determine if enabled
+or not (no longer check value as it is redundent)
+-TimeAlarmsClass::enable(): Changed how a valid alarm is checked to allow for a value
+of 0 only on alarms that should accept it
+-TimeAlarmsClass::enable(): Now the alarm is disabled if we don't have safe conditions to
+enable it
+-TimeAlarmsClass::free(): When freeing an alarm, we set .onTickHandler to NULL to avoid
+confusion
+-TimeAlarmsClass::create(): Changed how a valid alarm is checked to allow for a value of 0
+only on alarms that should accept it
+
+The following changes have been made to TimeAlarms.h:
+-Add macro: dtUseAbsoluteValue to simplify checking of the value parameter
+-dtINVALID_TIME: Change definition from 0 to (time_t)(-1) as now a value of 0 can be
+valid. Now the highest possible value is used.
+-move 'TimeAlarmsClass::free()' to the public portion of the class so we can always use it
+to properly free alarms."
+https://api.github.com/repos/rodrigograca31/Samaritan/commits/5dd8966c681ca30a52acab1ce4d094b95dfbff0d,https://api.github.com/repos/rodrigograca31/Samaritan/issues/26,Fixes #26 (URL parameter not working)
+https://api.github.com/repos/rodrigograca31/Samaritan/commits/3ad70bf1c39cc8e86a98fc0c3e9845cdb1a16628,https://api.github.com/repos/rodrigograca31/Samaritan/issues/11,Fixes #11
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/ffd1a8f7b7a819f9b427462769e191c6f8650a64,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/33,Now failed reports will be saved to a file and can be sent using a method call. This resolves #33. (#34)
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/c867836a351585f568061697e88acef1f87851ca,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/28,Fixed UI issue on lower resolution. This resolves #28.
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/5a44103db3916d7b5daaf3492cb550fe2311e6bd,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/27,Now CrashReporter.NET will show error when there is no internet connection and user tries to send the report. This resolves #27.
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/cc85909c419b790001d987322923bb175d7aa552,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/22,Fixed an issue where sending crash report silently via SMTP didn't work. This resolves #22.
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/592a81590fa55f9486bb940eebf3afc43bbb8cef,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/22,"Fixed an issue where silent flag didn't work for an unhandled exception. This resolves #13, resolves #18 and resolves #22."
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/592a81590fa55f9486bb940eebf3afc43bbb8cef,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/18,"Fixed an issue where silent flag didn't work for an unhandled exception. This resolves #13, resolves #18 and resolves #22."
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/592a81590fa55f9486bb940eebf3afc43bbb8cef,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/13,"Fixed an issue where silent flag didn't work for an unhandled exception. This resolves #13, resolves #18 and resolves #22."
+https://api.github.com/repos/ravibpatel/CrashReporter.NET/commits/e36a02f49e2f07833ce446be10098d6e652ddd11,https://api.github.com/repos/ravibpatel/CrashReporter.NET/issues/11,Now application deployed using ClickOnce will use Publish Version as the Application Version. This resolves #11.
+https://api.github.com/repos/zerok/celery-prometheus-exporter/commits/46c5f21f9bc1d2be41701e0b7fca3472b48fa340,https://api.github.com/repos/zerok/celery-prometheus-exporter/issues/39,Explicitly support promclient >= 0.4. Closes #39.
+https://api.github.com/repos/zerok/celery-prometheus-exporter/commits/88eb3e1e6a65a8392c2bffad2adcc2cd362595eb,https://api.github.com/repos/zerok/celery-prometheus-exporter/issues/14,"task-succeeded events don't contain the task name, fixes #14"
+https://api.github.com/repos/eirikb/gifie/commits/5db982e4d72c33b89e9f31758808177ddf511b96,https://api.github.com/repos/eirikb/gifie/issues/3,"Update script (and style sheet) locations
+
+This fixes #3 by replacing all dependencies origin with one common - cdnjs."
+https://api.github.com/repos/hallidave/ruby-snmp/commits/a3d076851f30f41143a1ffd748bc1eb4b7c4ac38,https://api.github.com/repos/hallidave/ruby-snmp/issues/54,"Name lookup hash values were set to nil when overwriting
+
+Fixes #54"
+https://api.github.com/repos/arnoldasgudas/Hangfire.MySqlStorage/commits/7031c0524d019428066b83262d32cb666f8a1f4e,https://api.github.com/repos/arnoldasgudas/Hangfire.MySqlStorage/issues/6,Fixed queue to utilize fetchToken and fixes arnoldasgudas/Hangfire.MySqlStorage#6
+https://api.github.com/repos/nelmio/NelmioSolariumBundle/commits/44f9a1f1cad564e3af463902918775af52c51384,https://api.github.com/repos/nelmio/NelmioSolariumBundle/issues/59,"Prevent duplicate registration of event listeners, fixes #59"
+https://api.github.com/repos/nelmio/NelmioSolariumBundle/commits/81aedef6c32e8a9eab14d09297cf5c36863df917,https://api.github.com/repos/nelmio/NelmioSolariumBundle/issues/28,Remove Stopwatch typehinting. Fixes #28
+https://api.github.com/repos/streamroot/videojs-hlsjs-plugin/commits/1b684e7b41dc8f7e8af497fc68c32cf0fa46343a,https://api.github.com/repos/streamroot/videojs-hlsjs-plugin/issues/12,Should fix #12
+https://api.github.com/repos/SpectoLabs/hoverfly-java/commits/fa11fe3b2e0cea64d548ec0ed571b3df1749b41a,https://api.github.com/repos/SpectoLabs/hoverfly-java/issues/184,Fix #184 set startedProcess to null after hoverfly is stopped
+https://api.github.com/repos/SpectoLabs/hoverfly-java/commits/bbfefb9b51fb04af968d429dc048473a56106d16,https://api.github.com/repos/SpectoLabs/hoverfly-java/issues/147,Fix #147 add support stateful capture
+https://api.github.com/repos/SpectoLabs/hoverfly-java/commits/ab38d53101b8a886b777d84706de912bf9b1174a,https://api.github.com/repos/SpectoLabs/hoverfly-java/issues/174,Fix #174 inCaptureOrSimulateMode should look for file under hoverfly foler
+https://api.github.com/repos/soldierq/QLicense/commits/5f980d3ee053229abb849eb4f40196feb4b99bd4,https://api.github.com/repos/soldierq/QLicense/issues/9,fix #9 replace RSACryptoServiceProvider
+https://api.github.com/repos/ember-cli/ember-cli-mocha/commits/a2c3f1a6c4be4e447846a044ec2f6e2fe948b9fd,https://api.github.com/repos/ember-cli/ember-cli-mocha/issues/68,"Fix bower install issue.
+Fixes #68."
+https://api.github.com/repos/cypress-io/circleci-orb/commits/7091269bef84ef1510e8d646d5d1a563841314fd,https://api.github.com/repos/cypress-io/circleci-orb/issues/76,"chore: use 4 parallel machines in the example, close #76"
+https://api.github.com/repos/cypress-io/circleci-orb/commits/732fc804ea6ae380bd2d9c506765d16c29a52517,https://api.github.com/repos/cypress-io/circleci-orb/issues/38,"chore: update all examples to use orb v1.0.1, close #38"
+https://api.github.com/repos/cypress-io/circleci-orb/commits/f4f509cfe0e52416f470f4d7e440b016b2140d6c,https://api.github.com/repos/cypress-io/circleci-orb/issues/34,"fix: name of the base-10 image should not use namespace
+
+- document Circle settings, closes #34"
+https://api.github.com/repos/cypress-io/circleci-orb/commits/8b8fa0c9f2b5b745b4608ac81bf8118d6b267a86,https://api.github.com/repos/cypress-io/circleci-orb/issues/10,"simplify commands, close #10"
+https://api.github.com/repos/omaralvarez/deluge-autoremoveplus/commits/492cc61fc3374e815ed58fc767dc186e092fede8,https://api.github.com/repos/omaralvarez/deluge-autoremoveplus/issues/24,WebUI: Fix that resolves #24
+https://api.github.com/repos/omaralvarez/deluge-autoremoveplus/commits/91cdc0248bc8d149aab46e489532c4be13f77113,https://api.github.com/repos/omaralvarez/deluge-autoremoveplus/issues/22,Core: Fixed problem with delete order when removing torrents and accounting for HDD space that resolves #22
+https://api.github.com/repos/omaralvarez/deluge-autoremoveplus/commits/d3270d8d2b3757b871bfc9af47604dfe1939b0a7,https://api.github.com/repos/omaralvarez/deluge-autoremoveplus/issues/16,Core: No label error fixed that resolves #16
+https://api.github.com/repos/ClickHouse/clickhouse-cpp/commits/5c1f319e6cdb4acb3d2b4d5b5f5b40fb9a0b508b,https://api.github.com/repos/ClickHouse/clickhouse-cpp/issues/55,closes #55 Fix for compilation on GCC 10.2.1 / FC32
+https://api.github.com/repos/ClickHouse/clickhouse-cpp/commits/715306a32ae5b86884009765eb2ec420b3224c67,https://api.github.com/repos/ClickHouse/clickhouse-cpp/issues/12,"Implement support for misplaced dot in appended decimal as string (#19)
+
+Fixes #12 
+* Throw exceptions on overflow and unexpected symbols.
+* Implement support for misplaced dot in appended decimal"
+https://api.github.com/repos/apache/incubator-pagespeed-cpanel/commits/7de05a2224e007dceabf7cdcf6964bf7086da4ea,https://api.github.com/repos/apache/incubator-pagespeed-cpanel/issues/14,"update readme install instructions, closes #14"
+https://api.github.com/repos/apache/incubator-pagespeed-cpanel/commits/dc0bc11318a2517784af24a1b8b9b07796c28410,https://api.github.com/repos/apache/incubator-pagespeed-cpanel/issues/11,use https clone link in readme - closes #11
+https://api.github.com/repos/apache/incubator-pagespeed-cpanel/commits/83c80a7704d1b4fb66f4da44924a6165c1a584f4,https://api.github.com/repos/apache/incubator-pagespeed-cpanel/issues/3,update install instructions - fixes #3
+https://api.github.com/repos/adafruit/Adafruit_NeoMatrix/commits/fe5942681b3db9172867c79ce5dad6fbff19a247,https://api.github.com/repos/adafruit/Adafruit_NeoMatrix/issues/18,"Fix ""a15 cannot be used in asm here"" on ESP8266
+
+background:
+https://www.reddit.com/r/esp8266/comments/ggapj8/new_compiler_breaks_programs_error_a15_cannot_be/
+https://www.esp8266.com/viewtopic.php?f=28&t=21035&p=87001#p87001
+
+Fixes:
+https://github.com/adafruit/Adafruit_NeoMatrix/issues/18
+
+Test:
+I built before the change, got the error, built again after the change
+and the build was fine."
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/5e0d8664ba386835294a8a94cf59d4945ec21733,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/80,"Fixes #80. Added a :z to the container that removes the data, so that it can properly remove the files"
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/ed32c3ce156e2ba7ce77e40c508a939fd6a20228,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/72,Added the ability to install templates or imagestreams in the imagestreams plugin. Fixes #72
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/34fe2a0a2ba7681590c1c578f11dcb3b41c958f8,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/71,Fixes #71
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/b494f39d3d50b3f1fe25b07246b524ccb2dd1b17,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/42,Fixes #42
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/ff4ab94626ce0347f6bd8872f4199df99f16c502,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/7,"fixes #7,
+ - listing no profiles when the .oc folder does not exits
+ - clean up argument parsing in create volume
+ - clean up whitespace, consistent use 2 spaces
+ - validate volume size
+ - check if volume exist before creating it"
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/ff1d1ba06a54af69c44a7d3e965810fb58a6eb18,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/4,Fixes #4 and #5
+https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/commits/a4d9628a785994acac8a17e884ad2c77e31a029d,https://api.github.com/repos/openshift-evangelists/oc-cluster-wrapper/issues/6,Fixed #6
+https://api.github.com/repos/xz64/license-webpack-plugin/commits/733ba0d1500e08c7d64adc4811836beda520d73f,https://api.github.com/repos/xz64/license-webpack-plugin/issues/27,"fix: use .hooks api when available
+
+Fixes #27"
+https://api.github.com/repos/xz64/license-webpack-plugin/commits/2747cfcf1bcdf611b5250e8fe1da3e910c858c4d,https://api.github.com/repos/xz64/license-webpack-plugin/issues/24,"fix: search fileDependencies for 3rd party modules
+
+Fixes #24"
+https://api.github.com/repos/xz64/license-webpack-plugin/commits/552582d77224ab008fe0c725e77f8b01c401f04b,https://api.github.com/repos/xz64/license-webpack-plugin/issues/20,"feat: normalize line endings from license files
+
+Fixes #20"
+https://api.github.com/repos/xz64/license-webpack-plugin/commits/7ab7899679d1d7f8d728e330e7133db7791566df,https://api.github.com/repos/xz64/license-webpack-plugin/issues/10,"fix: handle multiple @ signs in file paths
+
+Closes #10"
+https://api.github.com/repos/xz64/license-webpack-plugin/commits/64fd832dcd0848e1a8bae31f1cbe80462d6b1fd5,https://api.github.com/repos/xz64/license-webpack-plugin/issues/9,"fix: create output directory if it doesn't exist
+
+Closes #9"
+https://api.github.com/repos/xz64/license-webpack-plugin/commits/28f1e1d526cae29994c2fad2828f31004d3ed660,https://api.github.com/repos/xz64/license-webpack-plugin/issues/8,"fix: make no-pattern error print correctly
+
+Fixes #8"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/625241e44f0b8add0c93b30a2cab38b2f76ff2b4,https://api.github.com/repos/jaspervdj/digestive-functors/issues/120,"Fix excessive monad constraint on fmap in tutorial
+
+Closes #120"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/eae0f9c9251668865f6120da963d6ad554c0dbf4,https://api.github.com/repos/jaspervdj/digestive-functors/issues/94,"Clean warnings, don't use Text.Read
+
+Closes #94"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/3232992c1dd3dc8bdebad2172c70f2d8a689a38c,https://api.github.com/repos/jaspervdj/digestive-functors/issues/90,"Bump blaze dependencies for df-blaze
+
+Closes #90"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/24fab41d91c6eb430b36bff845aae318c4f64f80,https://api.github.com/repos/jaspervdj/digestive-functors/issues/50,"Bump bytestring dependency
+
+Closes #50"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/11529fca487f64fec041a3f9d4bc65316688c7a5,https://api.github.com/repos/jaspervdj/digestive-functors/issues/45,"Fix tutorial HTML, patch by @dubiousdavid
+
+Closes #45"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/f8cee17eceffd8ac11bab556bcf2046f4a3d7265,https://api.github.com/repos/jaspervdj/digestive-functors/issues/41,Fix #41
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/f81a1903cde90b400eaab8ba5c9ffcd1a7653acf,https://api.github.com/repos/jaspervdj/digestive-functors/issues/18,"Optionally throw away password form input
+
+Fixed #18"
+https://api.github.com/repos/jaspervdj/digestive-functors/commits/076375da7402fcacef6295318ba6bbdf636fa224,https://api.github.com/repos/jaspervdj/digestive-functors/issues/13,"Update README
+
+Closes gh-13"
+https://api.github.com/repos/microsoft/winstore-jscompat/commits/5c0039a98268cee4712bd4cd4b63585d48be451c,https://api.github.com/repos/microsoft/winstore-jscompat/issues/8,"Fix #8
+
+The dynamic document we create to pre-process HTML will automatically create wrapping document, head, and body elements when HTML is passed in. This resulted in extra <head> and <body> tags getting created when calling innerHTML on elements that are not document elements."
+https://api.github.com/repos/keolo/mixpanel_client/commits/b085a2fd2f94b8a576d32fcc59ba3324773f15ea,https://api.github.com/repos/keolo/mixpanel_client/issues/5,"namespace all exceptions
+
+this commit fixes #5"
+https://api.github.com/repos/fh1ch/node-bacstack/commits/3103ad51fab5eb56b0ed68d702787c4223990d7a,https://api.github.com/repos/fh1ch/node-bacstack/issues/122,"fix(asn1): correct encoding of object-types > 512
+
+Closes #122"
+https://api.github.com/repos/mozilla/i18n-abide/commits/1c122c641f775216805378aec4ff0f2b94778dd2,https://api.github.com/repos/mozilla/i18n-abide/issues/80,"fix(abide): fix #80
+
+TypeError: Property 'locals' of object #<ServerResponse> is not a function
+    at IncomingMessage.locals.setLocale (/mnt/work/PROJECTS/mycoolproject/payment/node_modules/i18n-abide/lib/i18n.js:218:14)"
+https://api.github.com/repos/mozilla/i18n-abide/commits/e755a3df6bbe6a9fae5914c61481ddc0b0e48578,https://api.github.com/repos/mozilla/i18n-abide/issues/61,Fix sr-Latn/sr_Latn handling (fixes #61)
+https://api.github.com/repos/mozilla/i18n-abide/commits/cc3556b811934a8a588277ace0af07c4f105ae31,https://api.github.com/repos/mozilla/i18n-abide/issues/21,"Add executables to package.json
+
+Rename compile-json.sh
+
+Fixes #21 and helps Issue #22."
+https://api.github.com/repos/mozilla/i18n-abide/commits/ffdc1686d77d2672fbd627ccb3f99dc2a3502a35,https://api.github.com/repos/mozilla/i18n-abide/issues/17,"Don't assume two character language codes. Fixes #17
+
+* Fixes Bug#806649"
+https://api.github.com/repos/kalenjordan/custom-reports/commits/26d9db39a1dfcdbaddd4f2904ca4410fe319f3c9,https://api.github.com/repos/kalenjordan/custom-reports/issues/47,"Delete menu cache block after add/delete report ,fixes #47"
+https://api.github.com/repos/kalenjordan/custom-reports/commits/f4ebc7f1d9807fc13a2fa1005700c5711d8c0e8c,https://api.github.com/repos/kalenjordan/custom-reports/issues/45,Fixed bug where filtering didnt work with column aliases with spaces and raised version to 0.1.7. Closes #45 [touch:45] (Branch: master)
+https://api.github.com/repos/ckan/ckanapi/commits/27f6bcf5eb20db2f7f25724c2774ddde2397cee8,https://api.github.com/repos/ckan/ckanapi/issues/186,fix #186
+https://api.github.com/repos/ckan/ckanapi/commits/1a8c3f1f9ca31274c050a6ce3c1fe30e4c305eac,https://api.github.com/repos/ckan/ckanapi/issues/146,"LocalCKAN.call_action: add ignored requests_kwargs parameter
+
+fixes #146"
+https://api.github.com/repos/jhipster/jhipster-guides/commits/038fd0d3cff9b90b4e9161895983893edfcd987e,https://api.github.com/repos/jhipster/jhipster-guides/issues/12,Fixes #12 missing import
+https://api.github.com/repos/jreinke/magento-elasticsearch/commits/27f07fca02dfba4058ae6c8be9ab50608f25b425,https://api.github.com/repos/jreinke/magento-elasticsearch/issues/15,"Fixes #4, fixes #15 (bug with multiselect attributes)"
+https://api.github.com/repos/jreinke/magento-elasticsearch/commits/27f07fca02dfba4058ae6c8be9ab50608f25b425,https://api.github.com/repos/jreinke/magento-elasticsearch/issues/4,"Fixes #4, fixes #15 (bug with multiselect attributes)"
+https://api.github.com/repos/jreinke/magento-elasticsearch/commits/3460566c1ed2fee9d433810109ef2456ebc4c930,https://api.github.com/repos/jreinke/magento-elasticsearch/issues/14,"Fallback to default catalog advanced search, fixes #14"
+https://api.github.com/repos/techsneeze/dmarcts-report-parser/commits/b74c4ea85fa2910d9d479a18da8a516756fd85a8,https://api.github.com/repos/techsneeze/dmarcts-report-parser/issues/102,"Fixes #102
+
+	* display width is a deprecated feature for recent MySQL
+          versions and breaks the table bootstrapping logic
+
+	* determine MySQL version and remove display width or
+          default back to initial display width setting"
+https://api.github.com/repos/techsneeze/dmarcts-report-parser/commits/6d52253d06c9e6589383906ade1ae77482f12dd8,https://api.github.com/repos/techsneeze/dmarcts-report-parser/issues/15,Changes the verify mode for TLS.  This seems to fix #15 and may make #14 better.
+https://api.github.com/repos/jasonrollins/shareplum/commits/a550d6a31497e5fec811021089d28f58ae97b3a2,https://api.github.com/repos/jasonrollins/shareplum/issues/18,"Descending ordering issue fix
+
+Issue #18 FIX: https://github.com/jasonrollins/shareplum/issues/18"
+https://api.github.com/repos/fsprojects/Paket.VisualStudio/commits/a0554e22d6c5a9fad1b7fa4c5545ac3da647fb13,https://api.github.com/repos/fsprojects/Paket.VisualStudio/issues/152,Locate .paket folder - fixes #152
+https://api.github.com/repos/fsprojects/Paket.VisualStudio/commits/a1ccdf70283542d0aa8d95f3f94f3c101a315a33,https://api.github.com/repos/fsprojects/Paket.VisualStudio/issues/142,update paket - fixes #142
+https://api.github.com/repos/fsprojects/Paket.VisualStudio/commits/d9969fb2091aa55a0d754217895ef5b0ebe23885,https://api.github.com/repos/fsprojects/Paket.VisualStudio/issues/105, Fixed Visual Studio exception on insert - fixes #105
+https://api.github.com/repos/fsprojects/Paket.VisualStudio/commits/ed0dc18174c03ddd4afb240051d4a30790c5c1a9,https://api.github.com/repos/fsprojects/Paket.VisualStudio/issues/82,Fixed Intellisense for packages in paket.references - fixes #82
+https://api.github.com/repos/fsprojects/Paket.VisualStudio/commits/9c82240a196873d10e2934205d1fd776ad8ccafe,https://api.github.com/repos/fsprojects/Paket.VisualStudio/issues/36,Fix paket add to project - fixes #36
+https://api.github.com/repos/lintangtimur/ovoid/commits/cf8197a8f7cab4c0dda7e865dcfae58c5e70248e,https://api.github.com/repos/lintangtimur/ovoid/issues/67,"Fixed #67, #65 Histori Transaksi"
+https://api.github.com/repos/commanderx16/x16-docs/commits/55a30994192623a47e0b69d8124744a4754da55c,https://api.github.com/repos/commanderx16/x16-docs/issues/25,"[PRG] updated how to switch screen modes in BASIC
+
+Fixes #25"
+https://api.github.com/repos/commanderx16/x16-docs/commits/91bf6d0e8d1a3a7b6961e5f7ab43e5479b70dc71,https://api.github.com/repos/commanderx16/x16-docs/issues/27,"[PRG] updated location of 'color'
+
+Fixes #27"
+https://api.github.com/repos/commanderx16/x16-docs/commits/1f93fe653dc5d64dd48cf6d5e1e0f483b7db3e4a,https://api.github.com/repos/commanderx16/x16-docs/issues/26,"[PRG] fix SRCMOD doc
+
+Fixes #26"
+https://api.github.com/repos/commanderx16/x16-docs/commits/85d66f2b1a130f06b2c8728e7efa0bf98f9ac547,https://api.github.com/repos/commanderx16/x16-docs/issues/3,"[PRG] clarified CHR$(14) with context
+
+Fixes #3"
+https://api.github.com/repos/uuazed/numerapi/commits/f859e950fe87933d887fa4e616a3ccf6acbcbaec,https://api.github.com/repos/uuazed/numerapi/issues/62,"Add `wallet_transactions`, fetches all transactions to / from your wallet
+
+fixes #62"
+https://api.github.com/repos/binxio/cfn-certificate-provider/commits/2cd5388782d7f85e5ff8b40fcfd20d20da615e8c,https://api.github.com/repos/binxio/cfn-certificate-provider/issues/30,added depends on. closes #30
+https://api.github.com/repos/algorand/go-algorand-sdk/commits/0bd7ea7557e2e339c9ae5cd1285f23b73efe37c1,https://api.github.com/repos/algorand/go-algorand-sdk/issues/110,"Content-Type is now set when sending a transaction (#131)
+
+This is done only if the user did not set one.
+
+Review: https://github.com/algorand/go-algorand-sdk/pull/131
+Resolves: https://github.com/algorand/go-algorand-sdk/issues/110"
+https://api.github.com/repos/algorand/go-algorand-sdk/commits/23fea1acc7fa36c5e46040561315a2a777f169f8,https://api.github.com/repos/algorand/go-algorand-sdk/issues/74,"Update README with build instructions (#75)
+
+* Closes #74"
+https://api.github.com/repos/sergeyt/meteor-typeahead/commits/ff3627ecb8eaad1462f3b24f6968b3c6b506e104,https://api.github.com/repos/sergeyt/meteor-typeahead/issues/58,"fixed resolving of view and data source function, updated PR #92, also close #58"
+https://api.github.com/repos/sergeyt/meteor-typeahead/commits/6ec34ed7c9a3e288847462978f9b14e8042dea1b,https://api.github.com/repos/sergeyt/meteor-typeahead/issues/84,test functioning inside content blocks (close #84)
+https://api.github.com/repos/sergeyt/meteor-typeahead/commits/aecf0778af98544b93c99a64e9f827b4db2284c4,https://api.github.com/repos/sergeyt/meteor-typeahead/issues/81,fixed async examples (close #81)
+https://api.github.com/repos/disqus/python-phabricator/commits/c9c1356e17f43314bfc805ae5f53d03f45928f00,https://api.github.com/repos/disqus/python-phabricator/issues/37,"Fixes #37,#39: Fix Regex bugs causing incorrect type detection and validation failures"
+https://api.github.com/repos/disqus/python-phabricator/commits/6e9b43650b52eb21185a09bdd11f6a8f0e66b2a0,https://api.github.com/repos/disqus/python-phabricator/issues/38,Fixes #38: Allow for nested methods to support conduit calls such as diffusion.repository.edit
+https://api.github.com/repos/disqus/python-phabricator/commits/040f2730a0b1ebbb12ad17768551df6eb5d8f2fc,https://api.github.com/repos/disqus/python-phabricator/issues/28,Refactor initial config step so all defaults are always set (fixes #28)
+https://api.github.com/repos/disqus/python-phabricator/commits/9f5a550e372006a39e3423aad551c4015b875b0f,https://api.github.com/repos/disqus/python-phabricator/issues/30,Add bad HTTP status (non 200) check for responses (fixes #30)
+https://api.github.com/repos/react-dnd/react-dnd-html5-backend/commits/ea3bcaffcd4df36673d17220271754eaa0579fa7,https://api.github.com/repos/react-dnd/react-dnd-html5-backend/issues/14,"Only rely on mousemove signaling end of drag in Firefox
+
+Fixes #14, #19"
+https://api.github.com/repos/react-dnd/react-dnd-html5-backend/commits/bb6bfe0e4ff1eb37dbb301016c25c9b4937dfb80,https://api.github.com/repos/react-dnd/react-dnd-html5-backend/issues/13,"Prefer selection to dragging in IE for editable elements
+
+Fixes #13"
+https://api.github.com/repos/react-dnd/react-dnd-html5-backend/commits/2b7b2e3e9051e5e56a86699c5c00f64082eabfd2,https://api.github.com/repos/react-dnd/react-dnd-html5-backend/issues/4,"End dragging native item if we detect mousemove event
+
+Fixes #4"
+https://api.github.com/repos/LaurentMazare/deep-models/commits/c54a0f5227d1b03018bbbf19075454250266bf90,https://api.github.com/repos/LaurentMazare/deep-models/issues/1,"Fix the tf.concat parameter order, fixes #1."
+https://api.github.com/repos/nfarina/homebridge-sonos/commits/b216b5413866574ef4ee67d0052e431b283bf877,https://api.github.com/repos/nfarina/homebridge-sonos/issues/10,"Add underscore dependency
+
+Fixes #10"
+https://api.github.com/repos/dgraph-io/dgraph4j/commits/3933e2f5b52b83354ad4ace93bfdd68bd8d96491,https://api.github.com/repos/dgraph-io/dgraph4j/issues/40,"Setting CommitNow on Mutation should finish transaction.
+
+Fix #40."
+https://api.github.com/repos/dgraph-io/dgraph4j/commits/117ad63bd6dcf6b7ce204f42eb77bc693a32187a,https://api.github.com/repos/dgraph-io/dgraph4j/issues/35,Sign archives only when ossrhUsername set. Fix #35
+https://api.github.com/repos/python-intelhex/intelhex/commits/96d3c3cadea822ae8b98a4b18bf8ba6e4459f9bf,https://api.github.com/repos/python-intelhex/intelhex/issues/54,"Make __getitem__ max address aware
+
+In order to be able to convert IntelHex objects to lists, make
+__getitem__ aware of the current maximum address. Yield IndexErrors for
+breaching the maximum to make list generation finite. Return padding
+bytes for unset addresses below the maximum, as before.
+
+Note that this change now requires an address to be explicitly set after
+object initialization to return anything but an IndexError.
+
+Fixes #54"
+https://api.github.com/repos/jhades/angularjs-gulp-example/commits/d5315cb2fc319a7b5f086f6dcf9f2ff222549a07,https://api.github.com/repos/jhades/angularjs-gulp-example/issues/3,Upgraded to node 4 - fixes #3
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/92465080d580943b3fb5eac2d993f82749e18b49,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/282,"Ensure order item product exists before setting its subscription scheme
+
+Closes #282"
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/fd1b8f099e64400a02640068efbac04607dcdbd0,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/234,"Fix cart subs schemes select styles
+
+closes #234"
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/fa632bbcef771c31cb9934dc7e0aa2021e74cf9b,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/85,"fix subscription option styling issues when using WCS 2.1+
+
+closes #85"
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/e51de3460246658bb8c29675bae918c007087300,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/81,"fix template override issues
+
+closes #81"
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/1fa6c28fd2817944c33d8e2dbc728de78c67a71a,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/56,"ensure that 'subscription_pricing_method' key exists
+
+closes #56"
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/e5e84bd41ebe03092e8f7f761b0922346e1c51df,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/62,"fix cart id uniqueness due to sub id set in woocommerce_add_cart_item instead of woocommerce_add_cart_item_data
+
+closes #62"
+https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/commits/312961d3cd85e51b27be5a90919a62518e9ba612,https://api.github.com/repos/somewherewarm/woocommerce-subscribe-all-the-things/issues/34,"price string subscription details not consistent with lowest recurring price
+
+closes #34"
+https://api.github.com/repos/jansenfelipe/cpf-gratis/commits/c369fb90797922a3a277351f2d549666471cffb3,https://api.github.com/repos/jansenfelipe/cpf-gratis/issues/10,"Ajuste na coleta do cookie
+resolvendo problema, resolve jansenfelipe/cpf-gratis#10"
+https://api.github.com/repos/colinmeinke/ghost-storage-adapter-s3/commits/65943b7f3b2ce32ca2b095d0478c54e12c52adb0,https://api.github.com/repos/colinmeinke/ghost-storage-adapter-s3/issues/18,"fix: do not compile es2015 classes to ES5
+
+Fixes #18."
+https://api.github.com/repos/TeamHG-Memex/arachnado/commits/39dbfec062850fd045bee1a6313dca22a80c9cbd,https://api.github.com/repos/TeamHG-Memex/arachnado/issues/1,Don't use www. subdomain to limit crawl. Fixes GH-1
+https://api.github.com/repos/alivx/CIS-Ubuntu-20.04-Ansible/commits/89bee3fd154d82e0055a3ad10fa27f46bae07a35,https://api.github.com/repos/alivx/CIS-Ubuntu-20.04-Ansible/issues/2,Fixes alivx/CIS-Ubuntu-20.04-Ansible#2
+https://api.github.com/repos/stevebest/passport-vkontakte/commits/458a767fddffc1a1beed244c2f4b4a9ce9ff1332,https://api.github.com/repos/stevebest/passport-vkontakte/issues/26,Remove wrapping around `Strategy.authenticate`: fixes #25 fixes #26
+https://api.github.com/repos/stevebest/passport-vkontakte/commits/458a767fddffc1a1beed244c2f4b4a9ce9ff1332,https://api.github.com/repos/stevebest/passport-vkontakte/issues/25,Remove wrapping around `Strategy.authenticate`: fixes #25 fixes #26
+https://api.github.com/repos/example42/puppi/commits/829b1cd86e4c1e03fc5ae2a7673b6f2fa4a00b19,https://api.github.com/repos/example42/puppi/issues/157,"Removed unused fact which fails win Puppet 7 on Windows (#158)
+
+Fix #157"
+https://api.github.com/repos/example42/puppi/commits/6262ae874a77e099fd67a9bc48e36b10504974e4,https://api.github.com/repos/example42/puppi/issues/147,Fixed #147
+https://api.github.com/repos/AmpersandJS/ampersand-state/commits/c9400921c4c36e77056b13c85640efa02f130f33,https://api.github.com/repos/AmpersandJS/ampersand-state/issues/24,adding test to show issue in #24 is in fact closed. closes #24
+https://api.github.com/repos/AmpersandJS/ampersand-state/commits/10c93753f8ba30c6e9cb42b08605a4b2e3b13bc0,https://api.github.com/repos/AmpersandJS/ampersand-state/issues/16,adding list of reserved props/session names to docs. closes #16
+https://api.github.com/repos/AmpersandJS/ampersand-state/commits/8484c21545198f144a864c120e3aa58b46daedf1,https://api.github.com/repos/AmpersandJS/ampersand-state/issues/53,"Add tests to validate 53 and 74 have been closed, fixes #53, fixes #74"
+https://api.github.com/repos/AmpersandJS/ampersand-state/commits/98008694af508307084e98b7655dbedc3ec12c41,https://api.github.com/repos/AmpersandJS/ampersand-state/issues/96,"fix false positives in changedAttributes, closes #96"
+https://api.github.com/repos/AmpersandJS/ampersand-state/commits/dac0028281eb0b046f0614df157e17961ab0225c,https://api.github.com/repos/AmpersandJS/ampersand-state/issues/18,Added test for set function with {unset: true} option. Fixes #18
+https://api.github.com/repos/rdy/fixture_builder/commits/4316097618415dbb79d4d253b2e2c884786c8b80,https://api.github.com/repos/rdy/fixture_builder/issues/34,"fix build - resolves #34
+see https://github.com/thoughtbot/factory_girl/pull/846"
+https://api.github.com/repos/louwrentius/fio-plot/commits/3e96dc1f1fc4c12688655074cc6676a3682842f8,https://api.github.com/repos/louwrentius/fio-plot/issues/59,Fix #59
+https://api.github.com/repos/fmtn/a/commits/8db63abaf6ce56aaa2c15476f3161162fed6cb66,https://api.github.com/repos/fmtn/a/issues/43,"Fixes #43 - batch messages can be enriched with fixed JMS properties such as JMSType, JMSCorrelationId, JMSReplyTo etc"
+https://api.github.com/repos/fmtn/a/commits/db90c86c40d37fd32c26643fa62a1d95b782b895,https://api.github.com/repos/fmtn/a/issues/23,Added support for legacy ActiveMQ versions. Fixes #23
+https://api.github.com/repos/fmtn/a/commits/eae0f7d1160b2ab580f874e218486d62bcaf34ac,https://api.github.com/repos/fmtn/a/issues/21,Fixes #21 - object properties not displayed
+https://api.github.com/repos/fmtn/a/commits/a5c4c898a8cb86e7c913038b18fb17ddbab63f42,https://api.github.com/repos/fmtn/a/issues/18,Changed start script to refer to script relative jar file. Suggestion by https://github.com/kutzi. Fixes #18
+https://api.github.com/repos/fmtn/a/commits/21350b1f94f5b6f8593245893b34b6033eca012c,https://api.github.com/repos/fmtn/a/issues/20,Fixes #20
+https://api.github.com/repos/fmtn/a/commits/2ca65f0087b6c3682b489725d76994a25922c7c5,https://api.github.com/repos/fmtn/a/issues/17,Queues with slashes. fixes #17
+https://api.github.com/repos/spring-projects/spring-guice/commits/8e26ec0f3c7d33e929705b9944f24cd46ba8662f,https://api.github.com/repos/spring-projects/spring-guice/issues/26,"Add a test for generic bean type
+
+Fixes gh-26"
+https://api.github.com/repos/citruz/beacontools/commits/9d21288fd7476de9b7bee693197588b45b100df2,https://api.github.com/repos/citruz/beacontools/issues/48,"improved reliability of packet prefiltering, fixes #48"
+https://api.github.com/repos/citruz/beacontools/commits/ebc8abdd6729ba96f2354b163752431a67c354f0,https://api.github.com/repos/citruz/beacontools/issues/41,"Parse Eddystone temperature correctly, fixes #41
+
+- The temperature field is big endian, like the others
+- The meaning of fixed point and regular (parsed) temperature fields was swapped around,
+  resulting in things like ""8129 Celsius"" being logged"
+https://api.github.com/repos/nricciar/wikicloth/commits/ff91de378beabe323452af37a2c7668714425718,https://api.github.com/repos/nricciar/wikicloth/issues/77,Use nokogiri to only autolink text elements. Resolves #77
+https://api.github.com/repos/nricciar/wikicloth/commits/34b370b20f05a7f9c43b3a69fc74688b46105687,https://api.github.com/repos/nricciar/wikicloth/issues/60,allow for en named behavior switches (__TOC__) in addition to localized versions. fixes #60
+https://api.github.com/repos/nricciar/wikicloth/commits/fc70082ac6cbce6f0bc982b9f6c4909038929666,https://api.github.com/repos/nricciar/wikicloth/issues/61,gracefully fail if no translations exist for specified locale.  fixes #61
+https://api.github.com/repos/nricciar/wikicloth/commits/36b0bd9b0df67e838d6f4cb97140790f71aed7bd,https://api.github.com/repos/nricciar/wikicloth/issues/54,fixes #54 some urls not automaticly linked
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/22dfcbbb64833ac19251b1d49c6f8cf5498d6755,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/65,"Presence of a bf param matches all docs (#66)
+
+Fixed by requiring Occur.MUST for the main clause, to avoid all hits when a SHOULD FunctionQuery clause exists (bf). This fixes #65"
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/e853eddfe6d25dd2f40bf20c91c5bfe2a607c31c,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/31,"delegate edismax instead of extending, ignore boosts for synonyms, fixes #31"
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/2728e8740cffce771da6c705d00d8f995ba0c22e,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/9,Modify the config to use a WhitespaceTokenizer instead of a StandardTokenizer.  Fixes #9 and provides a better fix for #32.
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/4913b62365f57abf14450c9c4f08ea098f20e75f,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/32,"fixes #32, adds unit tests demonstrating that it's possible to use hyphens in synonyms (merge with branch issue32)"
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/24a0b9f1f1d480aeaa2a903f35eb13a333e558d1,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/16,"add a script for running unit tests and a test for issue #16, fixes #16"
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/eab8099c01e323d1ec7d0159e404dbe0ca4c634e,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/5,Add synonyms.expandPhrases option to automatically generate phrases from synonyms.  Fixes #5.
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/2db335e468ced734c1661ead98337bcb27ae06d6,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/4,"correctly reset, end, and close the token stream.  Fixes #4"
+https://api.github.com/repos/healthonnet/hon-lucene-synonyms/commits/42a5f1bc81fa6e052c25ded79b0ab79ab7844bf8,https://api.github.com/repos/healthonnet/hon-lucene-synonyms/issues/1,"copy queryFields logic from ExtendedDismaxQParser, because the field became private in Solr 3.6.1.  Should fix #1"
+https://api.github.com/repos/hpgrahsl/kafka-connect-mongodb/commits/aea167d46c420a3b6d80cf69989c36f1df2b5501,https://api.github.com/repos/hpgrahsl/kafka-connect-mongodb/issues/76,"Hotfix 1.3.1 (#77)
+
+* fixing a stupid dependency issue regarding StringUtils
+
+missing dependency affected the repackaged jar. no issue when running the fat uber
+jar of the connector. the problem went unnoticed during release preparation since the
+E2E test was configured to run against the uber jar.
+
+* fix #76 and call potential post processor coming next in the chain"
+https://api.github.com/repos/snoyberg/yaml/commits/4fac88c952fb4d3195535c310dea039cfa7f2564,https://api.github.com/repos/snoyberg/yaml/issues/185,Don't wrap up async exceptions (fixes #185)
+https://api.github.com/repos/snoyberg/yaml/commits/610a817c3a156b6d0244f588de7e57e2bd5f0db6,https://api.github.com/repos/snoyberg/yaml/issues/178,Provide a workaround for Windows truncation failure (fixes #178)
+https://api.github.com/repos/snoyberg/yaml/commits/e03c9ac909883021095ef991bad0019a4fd6e40e,https://api.github.com/repos/snoyberg/yaml/issues/147,Fix WriterT related space leak (fixes #147)
+https://api.github.com/repos/snoyberg/yaml/commits/5648c2219c8a2a311c13ea44bdd3637962c0eafe,https://api.github.com/repos/snoyberg/yaml/issues/137,Quote keys as necessary (fixes #137)
+https://api.github.com/repos/snoyberg/yaml/commits/f7ef5ca83744d3d3927c60e245fbcda7d5c643ca,https://api.github.com/repos/snoyberg/yaml/issues/110,libyaml upgrade (fixes #110)
+https://api.github.com/repos/snoyberg/yaml/commits/1ecada5b620cc18808cfb30d8908213c7ee834af,https://api.github.com/repos/snoyberg/yaml/issues/105,Move over to libyaml from Github (fixes #105)
+https://api.github.com/repos/snoyberg/yaml/commits/e6ffcee39ab075ada8ba2b29c1f57af2f1448f91,https://api.github.com/repos/snoyberg/yaml/issues/94,Really get rid of incorrect character encoding (fixes #94)
+https://api.github.com/repos/snoyberg/yaml/commits/8749ee6f9b927b188ef0734fe93ca589339d9b56,https://api.github.com/repos/snoyberg/yaml/issues/92,Remove problematic non-ASCII character (fixes #92)
+https://api.github.com/repos/snoyberg/yaml/commits/e2109cd52984fb4aa87a4f127f057cf97af3692e,https://api.github.com/repos/snoyberg/yaml/issues/90,"Open files through GHC intl-safe API (#90)
+
+Fix #90. Idea: reuse low-level API from GHC internals, since it has
+already tested low-level code to deal with non-ASCII filenames on
+different platforms."
+https://api.github.com/repos/snoyberg/yaml/commits/5b0bf4fc3b5c1920c83e09e4d08e1ce864cdb82f,https://api.github.com/repos/snoyberg/yaml/issues/84,Fix pretty-printing order of UnexpectedEvent's fields (fixes #84)
+https://api.github.com/repos/snoyberg/yaml/commits/438f0bc959e398bf88e420c4634136e325301b55,https://api.github.com/repos/snoyberg/yaml/issues/64,Proper handling of String +123 serialization (fixes #64)
+https://api.github.com/repos/snoyberg/yaml/commits/45f645923827bfbcc4c05383ecc81e61a186c443,https://api.github.com/repos/snoyberg/yaml/issues/52,"Properly handle asynchronous exceptions (fixes #52)
+
+And Data.Yaml.decodeFileEither and Data.Yaml.Include.decodeFileEither
+behave the same."
+https://api.github.com/repos/snoyberg/yaml/commits/d9505fe1f14991326048844d9ac203a2c9a4e847,https://api.github.com/repos/snoyberg/yaml/issues/9,"Merge pull request #10 from veinor/master
+
+handle additional boolean keywords (fixes #9)"
+https://api.github.com/repos/ChrisMuir/Zillow/commits/8f804cd617380e4e964dcf91235b0bd451c9f321,https://api.github.com/repos/ChrisMuir/Zillow/issues/1,start chromedriver maximized - fixes #1
+https://api.github.com/repos/randomdrake/nasa-apod-desktop/commits/3e8ef5033893f6f25bf60c5172389c5a5dc1aed9,https://api.github.com/repos/randomdrake/nasa-apod-desktop/issues/8,"Fixes #8
+
+-Adds handling if the response body is small, signifying error
+-Fixes debug message showing even if debug was set to false
+-Small fixes to clean up code"
+https://api.github.com/repos/Pegase745/sqlalchemy-datatables/commits/75cd430a9683f2dcb72e098f7b7b7867a27cdd1b,https://api.github.com/repos/Pegase745/sqlalchemy-datatables/issues/56,"Support `length=-1` to disable paging.
+
+Closes #56"
+https://api.github.com/repos/irontec/angular-bootstrap-simple-chat/commits/47274d196cdb638bec0eb5ccac33596e8e283be1,https://api.github.com/repos/irontec/angular-bootstrap-simple-chat/issues/9,"Update bower.json
+
+Closes #9.
+
+Change the main section in bower.json"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/b734b9f00956ac97ed93fa5ac83d6a5032602efc,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/95,"fix #95, somehow a S got inserted ;-) (thanks @jfirwin)"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/77c8d97cb0fe4607f68feb9f186219255bec7d90,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/81,fix #81 make remote admin work again (scale timeouts based on # of requests)
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/af94824bcad5bc242957f933b5aa6f410d8d3005,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/65,fix #65 missing padding on seturl
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/7c6744704dab498a862817d9832b4fc0a2c8c4b4,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/64,fix #64: fix help text for seriallog
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/61621702cf155392db539aa2b772a87d56d80c28,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/61,Closes #61
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/76f475d800d34787d1ed95de4e692c0a450c8b44,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/49,Fix #49 - force close socket to kill reader thread (was blocking in read)
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/e55db166cb888f809326bc2b3f7a5822b86b1c70,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/45,fix #45.  thanks @ScriptBlock!
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/0759c1593f1338a9d2bf20f13a168c7439f0da38,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/21,fix #21 - which I thought I had fixed long ago but did not
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/86005c0ddada2226e2e54ea8ad0c66a63477eafe,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/41,1.1.23 fix #41 pyserial also drives usb control signals wrong on windows
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/cc77a2ab1e5305aac3b5f27d0670dc8792f65e2b,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/19,fix #19 (and misc changes for the new clean device API)
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/1546e6566f6dc1d758a3137d666f128f5f81f6d4,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/27,fix #27
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/7d269b742b23c4cb0fde4576232ccc5abece0a96,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/26,fix #26 thanks @claesg - use newer protobuf lib
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/25eea6c5b9514bc6ddb9ccebe1dc73df90b07143,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/23,"1.0.14 fix #23 I busted setstr, thanks @mc-hamster for the headup"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/dd45429576590aa54e9567e0287db7d5198a294b,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/20,fix #20 - allow setting binary arrays (i.e. psk) with strings of hex digits
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/8c86a49b63f9153e3dc8d3f034fdcb67038b6c84,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/18,"fix #18 reset button was disabled
+
+ooh this one was super interesting.  I was able to repro from your great description.  The problem was that leaving rts low was disabling the reset button on the board.  So I think the only fix needed was to raise rts high before we close the port.
+
+Meshtastic-python$ bin/run.sh --setstr wifi_ssid ""asdf"" --debug
+rm: cannot remove 'log_*': No such file or directory
+DEBUG:root:Connecting to /dev/ttyUSB0
+DEBUG:root:Sending: want_config_id: 42
+
+Trigger powerFSM 9
+DEBUG:root:Received: {'myInfo': {'myNodeNum': 2883444536, 'hasGps': True, 'numChannels': 13, 'region': 'unset', 'hwModel': 'tbeam', 'firmwareVersion': 'unset', 'packetIdBits': 32, 'currentPacketId': 380285744, 'nodeNumBits': 32, 'messageTimeoutMsec': 300000, 'minAppVersion': 172}}
+DEBUG:root:Received: {'radio': {'preferences': {'positionBroadcastSecs': 900, 'sendOwnerInterval': 4, 'waitBluetoothSecs': 120, 'screenOnSecs': 300, 'phoneTimeoutSecs': 900, 'phoneSdsTimeoutSec': 7200, 'meshSdsTimeoutSecs': 7200, 'sdsSecs': 31536000, 'lsSecs': 3601, 'wifiSsid': 'asdf'}, 'channelSettings': {'modemConfig': 'Bw125Cr48Sf4096', 'psk': '1PG7OiApB1nwvP+rz05pvw==', 'name': 'Default'}}}
+DEBUG:root:Received: {'nodeInfo': {'num': 2883444536, 'user': {'id': '!2462abdddf38', 'longName': 'Bob b', 'shortName': 'Bb', 'macaddr': 'JGKr3d84'}, 'position': {'batteryLevel': 100, 'time': 315965514}}}
+DEBUG:root:Received: {'nodeInfo': {'num': 682754228, 'user': {'id': '!246f28b200b4', 'longName': 'Bob b', 'shortName': 'Bb', 'macaddr': 'JG8osgC0'}, 'position': {'batteryLevel': 79, 'time': 316593914}, 'snr': 9.5}}
+DEBUG:root:Received: {'nodeInfo': {'num': 2441803616, 'user': {'id': '!5002918af760', 'longName': 'ryan', 'shortName': 'r', 'macaddr': 'UAKRivdg'}, 'position': {'batteryLevel': 61, 'time': 316497304}, 'snr': 10.0}}
+DEBUG:root:Received: {'nodeInfo': {'num': 862631397, 'user': {'id': '!c44f336ab5e5', 'longName': 'Unknown b5e5', 'shortName': '?E5', 'macaddr': 'xE8zarXl'}, 'position': {'time': 1597965319}, 'snr': 13.25}}
+DEBUG:root:Received: {'nodeInfo': {'num': 2441803548, 'user': {'id': '!5002918af71c', 'longName': 'Unknown f71c', 'shortName': '?1C', 'macaddr': 'UAKRivcc'}, 'position': {'batteryLevel': 47, 'time': 316494981}, 'snr': 9.5}}
+DEBUG:root:Received: {'nodeInfo': {'num': 82599254, 'user': {'id': '!fd1004ec5d56', 'longName': 'Unknown 5d56', 'shortName': '?56', 'macaddr': '/RAE7F1W'}, 'position': {}, 'snr': 9.25}}
+DEBUG:root:Received: {'nodeInfo': {'num': 2885173400, 'user': {'id': '!2462abf84098', 'longName': 'Unknown 4098', 'shortName': '?98', 'macaddr': 'JGKr+ECY'}, 'position': {'batteryLevel': 4, 'time': 315966200}, 'snr': 10.75}}
+DEBUG:root:Received: {'configCompleteId': 42}
+Connected to radio
+Setting preference wifi_ssid to asdf
+Writing modified preferences to device
+DEBUG:root:Sending: set_radio {
+  preferences {
+    position_broadcast_secs: 900
+    send_owner_interval: 4
+    wait_bluetooth_secs: 120
+    screen_on_secs: 300
+    phone_timeout_secs: 900
+    phone_sds_timeout_sec: 7200
+    mesh_sds_timeout_secs: 7200
+    sds_secs: 31536000
+    ls_secs: 3601
+    wifi_ssid: ""asdf""
+  }
+  channel_settings {
+    modem_config: Bw125Cr48Sf4096
+    psk: ""\324\361\273: )\007Y\360\274\377\253\317Ni\277""
+    name: ""Default""
+  }
+}
+
+DEBUG:root:Closing serial stream
+DEBUG:root:reader is exiting"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/be8c654eea7ac606ae99005000e9a481f7845f41,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/14,"1.0.5 fix #14, let users set bool,float or string params.
+
+Example usage:
+
+Or to configure an ESP32 based board to join a wifi network as a station (wifi support in the device code is coming soon):
+
+```
+meshtastic --set wifi_ap_mode false --setstr wifi_ssid mywifissid --setstr wifi_password mywifipsw
+```
+
+Or to configure an ESP32 to run as a Wifi access point:
+
+```
+meshtastic --set wifi_ap_mode true --setstr wifi_ssid mywifissid --setstr wifi_password mywifipsw
+```"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/cb6f7097c2c4c5a36c37015e304247209eb7d877,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/12,"fix #12 ""meshtastic --sendtext fish --dest '!2462abf84098'"" now works"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/0c9c8bca57cb6c31bcdbde9426803cdf79aadace,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/7,"Fix #7: Properly decode OPAQUE binary packets...
+and add binary sending to the integration tests"
+https://api.github.com/repos/meshtastic/Meshtastic-python/commits/7457d3340cc3f48f24cd8e1e079948261aa02adc,https://api.github.com/repos/meshtastic/Meshtastic-python/issues/1,add note saying pip 20 is required.  Fix #1
