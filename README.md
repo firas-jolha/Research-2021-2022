@@ -23,7 +23,8 @@ It contains the source code of the project.
 
 
 
-
+# thesis folder
+It contains the thesis document and the handout provided at defense day.
 
 
 
