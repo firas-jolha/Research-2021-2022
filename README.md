@@ -1,5 +1,5 @@
 # Research-2021-2022
-This repository contains all the source code and files related the master thesis entitled "A simple framework to recommend corrective actions based on the measurements of software repositories".
+This repository contains all the source code and files related to the master thesis entitled "A simple framework to recommend corrective actions based on the measurements of software repositories".
 
 
 # data folder
